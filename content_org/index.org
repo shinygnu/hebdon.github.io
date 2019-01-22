@@ -3,9 +3,13 @@
 
 :PROPERTIES:
 #+title: The Shine
+#+author: The Shiniest Ram
+#+name: Shiny
 :END:
 
-* PUG
-- Trying to make this the main page
+* About this Website
 
-This is special link to [[file:try.html][Try.]]
+1) Trying to make this the main page
+2) Always isn't so easy.
+
+At least worth to [[file:try.html][Try.]]
