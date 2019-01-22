@@ -1,0 +1,14 @@
+#+HUGO_BASE_DIR: /home/chrishebdon/shinyram.github.io/
+#+HUGO_SECTION: ../
+#+EXPORT_FILE_NAME: index
+#+title: Shine
+
+
+* TODO [#C] Can I become a MENU?
+
+We want this to be an INTRO
+
+an IMAGE
+
+text CENTERED
+
