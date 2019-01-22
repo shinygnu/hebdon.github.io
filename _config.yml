@@ -24,6 +24,7 @@ github_username:  shinyram
 
 # Build settings
 markdown: kramdown
+destination: ./
 theme: minima
 plugins:
   - jekyll-feed
@@ -39,3 +40,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
