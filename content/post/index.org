@@ -1,7 +1,7 @@
 #+HUGO_BASE_DIR: /home/chrishebdon/shinyram.github.io/
 #+HUGO_SECTION: post
 
-#+title: The Shine
+#+TITLE: The Shine
 #+author: The Shiniest
 
 * Test Header
