@@ -1,6 +1,6 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: ../
-#+title: /The Shine/
+#+TITLE: /The Shine/
 
 * Great Attempt
 - Trying to make this the main page
