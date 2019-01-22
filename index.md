@@ -1,10 +1,10 @@
 +++
-title = "The Shine"
-author = ["The Shiniest"]
+title = "Shine"
+author = ["Chris Hebdon"]
 draft = false
 +++
 
-## Test Header {#test-header}
+## Is this? {#is-this}
 
 lipsum
 

@@ -1,10 +1,8 @@
 #+HUGO_BASE_DIR: /home/chrishebdon/shinyram.github.io/
 #+HUGO_SECTION: ../
+#+title: Shine
 
-#+TITLE: The Shine
-#+author: The Shiniest
-
-* Test Header
+* Is this?
 lipsum
 
 ** Second
