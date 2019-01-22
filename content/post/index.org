@@ -1,5 +1,5 @@
 #+HUGO_BASE_DIR: /home/chrishebdon/shinyram.github.io/
-#+HUGO_SECTION: ./
+#+HUGO_SECTION: ../
 
 #+TITLE: The Shine
 #+author: The Shiniest
