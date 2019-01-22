@@ -1,6 +1,6 @@
 +++
 title = "The Shine"
-author = ["Chris Hebdon"]
+author = ["Shiny Ram"]
 draft = false
 +++
 

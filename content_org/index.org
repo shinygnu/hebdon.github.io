@@ -1,6 +1,7 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: ../
-#+TITLE: /The Shine/
+#+title: The Shine
+#+author: Shiny Ram
 
 * Great Attempt
 - Trying to make this the main page
