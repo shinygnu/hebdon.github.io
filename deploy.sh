@@ -3,13 +3,13 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-jekyll 
+# jekyll build
 
 # Go To Public folder
 
 cd ~/shinyram.github.io
 
-cp -av /home/chrishebdon/shinyram.github.io/* .
+# cp -av /home/chrishebdon/shinyram.github.io/* .
 
 
 # Add changes to git.
