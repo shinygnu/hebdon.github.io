@@ -1,15 +1,9 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: ../
 #+title: The Shine
----
-title: "The Shine"
-author: "Shiny Ram"
-date: 2019-01-21T22:49:38-05:00
-draft: true
----
 
 
-* Perfecting Attempt
+* A more perfect
 - Trying to make this the main page
 
 This is special link to [[file:try.html][Try.]]

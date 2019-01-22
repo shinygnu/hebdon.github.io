@@ -4,15 +4,7 @@ author = ["Chris Hebdon"]
 draft = false
 +++
 
----
-title: "The Shine"
-author: "Shiny Ram"
-date: 2019-01-21T22:49:38-05:00
-draft: true
----
-
-
-## Perfecting Attempt {#perfecting-attempt}
+## A more perfect {#a-more-perfect}
 
 -   Trying to make this the main page
 
