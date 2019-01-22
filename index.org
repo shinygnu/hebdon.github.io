@@ -1,14 +1,10 @@
-#+HUGO_BASE_DIR: .
-#+HUGO_SECTION: public
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: ./
+#+EXPORT_FILE_NAME: index
 
-#+title: The Shiny Ram Site
-#+author: ShinyGNU 
+#+title: The Shine
 
-* Terrible twos
-1. The most
-2. The second most
+* The Shine :@shine:
+  All posts here will have the category set to /shine/
 
-** What it would mean, vol. 3
-- Perfect
-  - Imperfect
 
