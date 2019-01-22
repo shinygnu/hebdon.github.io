@@ -1,0 +1,18 @@
+#+TITLE: Some new place in the World
+#+LAYOUT: post
+#+TAGS jekyll
+
+* Fellowships
+
+Here would go fellowships. 
+
+** Shininess
+
+Here would go shiny things. 
+
+*** Monster allowances
+This is where you would see allowances. 
+
+- It's easy
+- It's hard
+- It's the same thing, really. 
