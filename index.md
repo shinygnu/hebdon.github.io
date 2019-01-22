@@ -4,7 +4,7 @@ author = ["Chris Hebdon"]
 draft = false
 +++
 
-## A more perfect {#a-more-perfect}
+## PUG {#pug}
 
 -   Trying to make this the main page
 

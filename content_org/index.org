@@ -5,7 +5,7 @@
 #+title: The Shine
 :END:
 
-* A more perfect
+* PUG
 - Trying to make this the main page
 
 This is special link to [[file:try.html][Try.]]
