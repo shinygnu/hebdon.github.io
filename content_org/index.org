@@ -6,4 +6,4 @@
 * Greatest Attempt
 - Trying to make this the main page
 
-This is special
+This is special link to [[file:try.html][Try.]]
