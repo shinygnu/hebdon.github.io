@@ -1,7 +1,9 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: ../
-#+title: The Shine
 
+:PROPERTIES:
+#+title: The Shine
+:END:
 
 * A more perfect
 - Trying to make this the main page
