@@ -3,7 +3,7 @@
 #+title: The Shine
 #+author: Shiny Ram
 
-* Great Attempt
+* Greatest Attempt
 - Trying to make this the main page
 
 This is special
