@@ -1,7 +1,7 @@
 #+HUGO_BASE_DIR: /home/chrishebdon/shinyram.github.io/
 #+HUGO_SECTION: fellowships
 #+EXPORT_FILE_NAME: index
-#+title: Shine
+#+title: Fellowships
 
 
 * TODO [#C] Can I become a MENU?
