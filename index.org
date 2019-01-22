@@ -1,3 +1,14 @@
-Is this working?
+#+HUGO_BASE_DIR: .
+#+HUGO_SECTION: public
 
-* What's the thing?
+#+title: The Shiny Ram Site
+#+author: ShinyGNU 
+
+* Terrible twos
+1. The most
+2. The second most
+
+** What it would mean, vol. 3
+- Perfect
+  - Imperfect
+
