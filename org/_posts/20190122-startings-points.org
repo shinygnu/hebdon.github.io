@@ -1,9 +1,0 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+BEGIN_HTML
----
-layout: default
-title: The Starting Point
----
-#+END_HTML 
-It was the starting point! 
