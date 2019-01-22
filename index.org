@@ -1,4 +1,0 @@
-
-* This is crucial
-
-  [[file:contents/fellowships/index.html][Fellowships]]

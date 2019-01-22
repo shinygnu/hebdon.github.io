@@ -10,7 +10,7 @@ cd ..
 
 cd shinyram.github.io
 
-cp -av /home/chrishebdon/shinyram.github.io/_site/public/* .
+cp -av /home/chrishebdon/shinyram.github.io/contents_org/* .
 
 
 # Add changes to git.
