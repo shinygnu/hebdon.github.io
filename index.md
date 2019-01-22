@@ -1,11 +1,11 @@
 +++
 title = "The Shine"
-author = ["Shiny Ram"]
+author = ["Shiny"]
 draft = false
 +++
 
-## Greatest Attempt {#greatest-attempt}
+## Perfecting Attempt {#perfecting-attempt}
 
 -   Trying to make this the main page
 
-This is special
+This is special link to [Try.](try.html)

@@ -1,9 +1,10 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: ../
-#+title: The Shine
-#+author: Shiny Ram
 
-* Greatest Attempt
+#+title: The Shine
+#+author: Shiny 
+
+* Perfecting Attempt
 - Trying to make this the main page
 
 This is special link to [[file:try.html][Try.]]
