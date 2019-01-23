@@ -1,7 +1,7 @@
 ---
 title: "Poems"
 date: 2019-01-23
-layout: 
+layout: default
 categories: 
 - Poems
 tags: 
