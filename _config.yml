@@ -17,14 +17,14 @@ title: Shiny Ram
 #email: shinygnu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website. 
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: shinygnu
-#github_username:  shinyram
+github_username:  shinyram
 
 # Build settings
 markdown: kramdown
-destination: /home/chrishebdon/shinyram.github.io/
+destination: /home/chrishebdon/shinyram.github.io/_site
 theme: minima
 plugins:
  - jekyll-feed
