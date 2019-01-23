@@ -1,14 +1,17 @@
 ---
-title: "| Home |"
+title: ""
 date: 
 layout: home
 categories: 
 tags: 
 ---
 
-# Table of Contents
 
+# About
 
 This website is meant as a collection of personal works. Enjoy!
+
+
+# Resources for Graduate Students     :ATTACH:
 
 ---
