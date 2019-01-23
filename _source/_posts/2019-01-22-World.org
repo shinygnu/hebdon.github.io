@@ -1,12 +1,9 @@
-#+TITLE: Shine
-#+DATE: 09-01-22 19:41 
+#+TITLE: ShineNew
+#+DATE: 09-01-22 22:41 
 #+SETUPFILE: 
 #+JEKYLL_LAYOUT: post
 #+JEKYLL_CATEGORIES: 
 #+JEKYLL_TAGS: Shine
 
-* This is the beginning
-1) of a website
-2) of the world?
-
+This is a first post
 
