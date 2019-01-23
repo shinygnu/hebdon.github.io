@@ -1,9 +1,10 @@
 ---
 title: "Funding"
 date: 
-layout: 
+layout: default
 categories: 
 tags: 
+- fellowships
 ---
 
 # Table of Contents
@@ -11,8 +12,6 @@ tags:
 1.  [Fellowships](#org3b0a63b)
     1.  [*de Karmen Fellow Trust*](#orgadd700d)
         1.  [$25,00 for fall and spring](#org0e44ea4)
-        2.  [guidelines: http://www.dekarman.org/wp-content/uploads/2018/10/Guidelines-2019-2020.doc](#org719d70a)
-        3.  [apply: http://www.dekarman.org/wp-content/uploads/2018/10/Application-2019-2020.doc](#org4c0ef42)
 
 
 <a id="org3b0a63b"></a>
@@ -31,14 +30,8 @@ tags:
 
 ### $25,00 for fall and spring
 
-info: <http://www.dekarman.org/qualifications/>
+1.  info: <http://www.dekarman.org/qualifications/>
 
+2.  guidelines: <http://www.dekarman.org/wp-content/uploads/2018/10/Guidelines-2019-2020.doc>
 
-<a id="org719d70a"></a>
-
-### guidelines: <http://www.dekarman.org/wp-content/uploads/2018/10/Guidelines-2019-2020.doc>
-
-
-<a id="org4c0ef42"></a>
-
-### apply: <http://www.dekarman.org/wp-content/uploads/2018/10/Application-2019-2020.doc>
+3.  apply: <http://www.dekarman.org/wp-content/uploads/2018/10/Application-2019-2020.doc>
