@@ -1,5 +1,5 @@
 ---
-title: "Shiny Ram"
+title: "| Home |"
 date: 
 layout: home
 categories: 
