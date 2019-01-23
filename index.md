@@ -29,7 +29,7 @@ tags:
 
 1.  Things
 
-    1.  Go
+    1.  TODO Go
     
         1.  And
         
@@ -51,10 +51,10 @@ tags:
                                         
                                             1.  Be
                                             
-                                                1.  Anywhere
+                                                1.  Anything
                                                 
-                                                    1.  A site
-                                                    2.  A place
-                                                    3.  A resource
-                                                    4.  A hub
-                                                    5.  &#x2014;
+                                                    1.  TODO 
+                                                    
+                                                        1.  Get
+                                                        
+                                                            1.  DONE 
