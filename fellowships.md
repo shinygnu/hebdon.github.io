@@ -1,7 +1,7 @@
 ---
 title: "Funding"
 date: 
-layout: default
+layout: page
 categories: 
 tags: 
 - fellowships
