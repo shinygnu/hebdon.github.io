@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-01-22T17:07:09-05:00</updated><id>/feed.xml</id><title type="html">Shiny Ram</title><subtitle>This is a personal academic website. </subtitle><entry><title type="html">What’s the point of being lonely?</title><link href="/2019/01/22/init.html" rel="alternate" type="text/html" title="What's the point of being lonely?" /><published>2019-01-22T16:22:00-05:00</published><updated>2019-01-22T16:22:00-05:00</updated><id>/2019/01/22/init</id><content type="html" xml:base="/2019/01/22/init.html">&lt;h1 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h1&gt;
+
+&lt;p&gt;This really is the way that things are beautiful, right?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Attracts me like no other lover&lt;/li&gt;
+  &lt;li&gt;Always keep track&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Table of Contents</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2019/01/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-01-22T12:00:48-05:00</published><updated>2019-01-22T12:00:48-05:00</updated><id>/jekyll/update/2019/01/22/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2019/01/22/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Some new place in the World</title><link href="/2019/01/22/World.html" rel="alternate" type="text/html" title="Some new place in the World" /><published>2019-01-22T00:00:00-05:00</published><updated>2019-01-22T00:00:00-05:00</updated><id>/2019/01/22/World</id><content type="html" xml:base="/2019/01/22/World.html">&lt;p&gt;#+TAGS jekyll&lt;/p&gt;
+&lt;h1&gt;Fellowships&lt;/h1&gt;
+&lt;p&gt;Here would go fellowships.&lt;/p&gt;
+&lt;h2&gt;Shininess&lt;/h2&gt;
+&lt;p&gt;Here would go shiny things.&lt;/p&gt;
+&lt;h3&gt;Monster allowances&lt;/h3&gt;
+&lt;p&gt;This is where you would see allowances.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It&amp;#8217;s easy&lt;/li&gt;
+  &lt;li&gt;It&amp;#8217;s hard&lt;/li&gt;
+  &lt;li&gt;It&amp;#8217;s the same thing, really.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry></feed>
