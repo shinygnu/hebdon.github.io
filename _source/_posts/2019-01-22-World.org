@@ -1,4 +1,4 @@
-#+TITLE: ShineNew
+#+TITLE: Shine
 #+DATE: 09-01-22 22:41 
 #+SETUPFILE: 
 #+JEKYLL_LAYOUT: post
