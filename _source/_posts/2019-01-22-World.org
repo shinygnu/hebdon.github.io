@@ -1,9 +1,10 @@
-#+TITLE: Shine
-#+DATE: 09-01-22 22:41 
+#+TITLE: As the Poet Says
+#+DATE: 2019-01-22 22:41 
 #+SETUPFILE: 
 #+JEKYLL_LAYOUT: post
 #+JEKYLL_CATEGORIES: 
-#+JEKYLL_TAGS: Shine
+#+JEKYLL_TAGS: poetry
 
-This is a first post
+Towards a simpler
+
 
