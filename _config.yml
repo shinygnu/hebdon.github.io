@@ -24,7 +24,7 @@ github_username:  shinyram
 
 # Build settings
 markdown: kramdown
-destination: /home/chrishebdon/shinyram.github.io/_site
+#destination: /home/chrishebdon/shinyram.github.io/_site
 theme: minima
 plugins:
  - jekyll-feed
