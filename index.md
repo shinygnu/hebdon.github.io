@@ -14,4 +14,4 @@ This website is meant as a collection of personal works. Enjoy!
 
 # Resources for Graduate Students
 
-./img/yalebranfordpostcard.jpg
+![img](./img/yalebranfordpostcard.jpg "A courtyard at Yale University's Branford College.")
