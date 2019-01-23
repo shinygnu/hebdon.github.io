@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "Deploying updates to shinyram.github.io..."
-
+echo 'Getting latest shinyram from github'
 # Build the project.
 #jekyll build
 
@@ -25,5 +25,9 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-# Come Back
+# Come Back Again!
+
+echo '** Done! A new version of shinyram has been uploaded! **'
+
+#!/bin/bash
 

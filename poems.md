@@ -17,4 +17,4 @@ tags:
 
 # Hafiz Ibrahim
 
-In the past our injustice was untidy, but now its loose ends have been trimmed off: injustice is orderly everywhere.
+\`\`In the past our injustice was untidy, but now its loose ends have \textit{been} trimmed off: injustice is orderly everywhere.''
