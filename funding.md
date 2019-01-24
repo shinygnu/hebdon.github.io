@@ -232,7 +232,7 @@ guidelines only, without logging in and without starting an application, through
 link below.
 
 Go to Online Application, with Detailed Guidelines — Login Required
-<http://www.hfg.org/df/print.htm>
+<http://www.hfg.org/df/>
 
 
 <a id="org58e07c2"></a>
