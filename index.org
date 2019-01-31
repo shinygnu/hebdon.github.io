@@ -5,6 +5,9 @@
 
 is the lonliest number that you've ever seen. 
 
-
-\fullcite{cepek:2018aa}
-
+#+begin_verse
+The clouds are up above you
+All the things are about you
+All the nuts up in the buttery tree
+Tree a little tree of me
+#+end_verse
