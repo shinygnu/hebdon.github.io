@@ -1,5 +1,5 @@
 #+AUTHOR: shinyram
-#+OPTION: toc:nil
+#+OPTIONS: toc:nil
 
 * This is a first header
 
