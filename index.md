@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 
-layout: home
+layout: 
 categories: 
 tags: 
 ---
