@@ -1,0 +1,8 @@
+#+TITLE:
+#+DATE: 
+#+SETUPFILE: 
+#+JEKYLL_LAYOUT: home
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_TAGS:
+#+OPTIONS: toc:nil 
+ 

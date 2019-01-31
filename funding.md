@@ -8,7 +8,7 @@ tags:
 
 # Table of Contents
 
-1.  [Fellowships](#orgfde5e95)
+1.  [Dissertation Writing Fellowships](#org94d74f0)
     1.  [1 March 2019](#org793fd59)
         1.  [American Anthropological Association Minority Disertation Fellowship](#org54ebe43)
     2.  [15 February 2019](#org0bd4739)
@@ -20,9 +20,9 @@ tags:
         1.  [*de Karmen Fellow Trust*](#org2e823ab)
 
 
-<a id="orgfde5e95"></a>
+<a id="org94d74f0"></a>
 
-# Fellowships
+# Dissertation Writing Fellowships
 
 
 <a id="org793fd59"></a>
