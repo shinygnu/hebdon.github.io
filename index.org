@@ -1,7 +1,6 @@
 #+AUTHOR: shinyram
 #+OPTIONS: toc:nil
+#+BIBLIOGRAPHY: ~/Writings/BibLaTeX/hebdonBibTeX plain
 
-* This is a first header
+\fullcite{cepek:2018aa}
 
-- What you want a list to be?
-  - Really in
