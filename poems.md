@@ -10,11 +10,7 @@ tags:
 
 # Table of Contents
 
-1.  [Hafiz Ibrahim](#orgd0f99af)
 
+\`\`In the past our injustice was untidy, but now its loose ends have been trimmed off: injustice is orderly everywhere.''
 
-<a id="orgd0f99af"></a>
-
-# Hafiz Ibrahim
-
-\`\`In the past our injustice was untidy, but now its loose ends have \textit{been} trimmed off: injustice is orderly everywhere.''
+&#x2014;Hafiz Ibrahim (1872&#x2013;1932) summarizing Foucault
