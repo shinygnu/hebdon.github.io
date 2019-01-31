@@ -1,9 +1,0 @@
-#+TITLE: energy
-#+DATE: 
-#+SETUPFILE: 
-#+JEKYLL_LAYOUT: page
-#+JEKYLL_CATEGORIES: 
-#+JEKYLL_TAGS: 
-
-* 
-
