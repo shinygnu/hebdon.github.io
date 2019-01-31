@@ -1,8 +1,9 @@
-#+AUTHOR: shinyram
-#+OPTIONS: toc:nil
-#+BIBLIOGRAPHY: ~/Writings/BibLaTeX/hebdonBibTeX plain
+#+title: shinyram
+#+author: shinyram
+#+options: toc:nil
+#+bibliography: ~/Writings/BibLaTeX/hebdonBibTeX plain
 
-\Large Smile is the lonliest number that you've ever seen. 
+is the lonliest number that you've ever seen. 
 
 
 \fullcite{cepek:2018aa}
