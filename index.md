@@ -1,9 +1,9 @@
 ---
 title: "Shine"
 date: 2019-01-30
-layout: 
+layout:
 categories: 
 tags: 
 ---
 
-Shine
+Shine in all the ways one might shine. 
