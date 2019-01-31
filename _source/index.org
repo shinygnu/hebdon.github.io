@@ -1,9 +1,4 @@
-#+TITLE:
-#+DATE: 
-#+SETUPFILE: 
-#+JEKYLL_LAYOUT: home
-#+JEKYLL_CATEGORIES: 
-#+JEKYLL_TAGS:
-#+OPTIONS: toc:nil 
+* This is a first header
 
- 
+- What you want a list to be?
+  - Really in
