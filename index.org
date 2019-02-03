@@ -1,5 +1,5 @@
 #+title: hebdon.github.io
-#+author: nil
+#+author: nil nonnil
 #+options: toc:nil
 #+bibliography: ~/Writings/BibLaTeX/hebdonBibTeX plain
 
