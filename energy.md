@@ -7,6 +7,9 @@ title: Energy
 %}
 
 ::: {#harvey-k.-n.d.-free-energy-foraging-in-an-affordance-landscape.-unpublished.}
+:::
+
+::: {#harvey-k.-n.d.-free-energy-foraging-in-an-affordance-landscape.-unpublished.}
 ### Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape. *Unpublished*.
 :::
 
