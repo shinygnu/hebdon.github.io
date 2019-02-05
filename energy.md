@@ -1,14 +1,11 @@
 ---
-title: "Energy"
-date: 
-layout: 
-categories: 
-tags: 
+bibliography: '/home/chrishebdon/Writings/BibLaTeX/hebdonBibTeX.bib'
+title: Energy
 ---
+
 Is it not the best: \fullcite{hornborg:2016aa}
 
-@hornborg:2016aa says that it's all a bunch of crap. 
-
+@hornborg:2016aa says that it's all a bunch of crap.
 
 ### Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape. *Unpublished*.
 
