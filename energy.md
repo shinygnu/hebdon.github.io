@@ -24,10 +24,9 @@ tags:
 
 ## Top
 
-<div class="source">
+{% highlight LaTeX %}
 \Large Smile \cite{hornborg:2016aa}
-
-</div>
+{% endhighlight %}
 
 
 <a id="orgdaeeee2"></a>
