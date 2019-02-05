@@ -25,7 +25,7 @@ Top
 ---
 :::
 
-[@hornborg:2016aa]
+{% highlight latex %} \\fullcite{hornborg:2016aa} {% endhighlight %}
 
 ::: {#general}
 General
