@@ -24,8 +24,7 @@ Anthropology of Energy
 Top
 ---
 
-\#+begin<sub>src</sub> latex \Large Smile \cite{hornborg:2016aa}
-\#+end<sub>src</sub> latex
+\cite{hornborg:2016aa}
 
 <a id="orgdaeeee2"></a>
 
