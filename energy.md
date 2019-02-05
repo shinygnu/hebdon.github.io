@@ -3,11 +3,6 @@ bibliography: '/home/chrishebdon/Writings/BibLaTeX/hebdonBibTeX.bib'
 title: Energy
 ---
 
-Table of Contents
-=================
-
-        1.  [Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape. *Unpublished*.](#orgae270c3)
-
 {% highlight latex %} Shine \\fullcite{hornborg:2016aa} {% endhighlight
 %}
 
