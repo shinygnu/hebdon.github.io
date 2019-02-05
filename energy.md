@@ -1,7 +1,7 @@
 ---
 title: "Energy"
 date: 
-layout: post
+layout: 
 categories: 
 tags: 
 ---
