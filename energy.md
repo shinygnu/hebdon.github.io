@@ -6,36 +6,10 @@ title: Energy
 Table of Contents
 =================
 
-1.  [Anthropology of Energy](#org2fed78a)
+        1.  [Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape. *Unpublished*.](#orgae270c3)
 
-    1.  [Top](#orga6d0aac)
-
-    2.  [General](#orgdaeeee2)
-
-    3.  [Miscellaneous](#orgbede472)
-
-        1.  [Harvey, K. n.d. Free Energy Foraging in an Affordance
-            Landscape. *Unpublished*.](#orgae270c3)
-
-Anthropology of Energy
-======================
-
-::: {#top}
-Top
----
-:::
-
-{% highlight latex %} \\fullcite{hornborg:2016aa} {% endhighlight %}
-
-::: {#general}
-General
--------
-:::
-
-::: {#miscellaneous}
-Miscellaneous
--------------
-:::
+{% highlight latex %} Shine \\fullcite{hornborg:2016aa} {% endhighlight
+%}
 
 ::: {#harvey-k.-n.d.-free-energy-foraging-in-an-affordance-landscape.-unpublished.}
 ### Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape. *Unpublished*.
