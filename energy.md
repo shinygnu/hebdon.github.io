@@ -1,43 +1,41 @@
 ---
-title: "Energy"
-date: 
-layout: 
-categories: 
-tags: 
+bibliography: '/home/chrishebdon/Writings/BibLaTeX/hebdonBibTeX.bib'
+csl: '/home/chrishebdon/Templates/Pandoc/styles/chicago-fullnote-bibliography-with-ibid.csl'
+title: Energy
 ---
 
-# Table of Contents
+Table of Contents
+=================
 
 1.  [Anthropology of Energy](#org2fed78a)
     1.  [Top](#orga6d0aac)
     2.  [General](#orgdaeeee2)
     3.  [Miscellaneous](#orgbede472)
-        1.  [Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape. *Unpublished*.](#orgae270c3)
-
+        1.  [Harvey, K. n.d. Free Energy Foraging in an Affordance
+            Landscape. *Unpublished*.](#orgae270c3)
 
 <a id="org2fed78a"></a>
 
-# Anthropology of Energy
-
+Anthropology of Energy
+======================
 
 <a id="orga6d0aac"></a>
 
-## Top
+Top
+---
 
-\#+begin<sub>src</sub> latex
-\Large Smile \cite{hornborg:2016aa}
+\#+begin<sub>src</sub> latex \Large Smile \cite{hornborg:2016aa}
 \#+end<sub>src</sub> latex
-
 
 <a id="orgdaeeee2"></a>
 
-## General
-
+General
+-------
 
 <a id="orgbede472"></a>
 
-## Miscellaneous
-
+Miscellaneous
+-------------
 
 <a id="orgae270c3"></a>
 
