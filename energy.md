@@ -24,10 +24,9 @@ tags:
 
 ## Top
 
-<div class="LaTeX">
+\#+begin<sub>src</sub> latex
 \Large Smile \cite{hornborg:2016aa}
-
-</div>
+\#+end<sub>src</sub> latex
 
 
 <a id="orgdaeeee2"></a>
