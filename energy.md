@@ -24,6 +24,11 @@ tags:
 
 ## Top
 
+<div class="source">
+\Large Smile \cite{hornborg:2016aa}
+
+</div>
+
 
 <a id="orgdaeeee2"></a>
 
