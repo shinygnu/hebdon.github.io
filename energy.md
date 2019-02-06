@@ -18,3 +18,9 @@ tags:
 -   Nocite
 
 \*\*Fullcite \fullcite{hornborg:2016aa}
+
+\thebibliography
+
+\printbibliography
+
+\printthebibliography
