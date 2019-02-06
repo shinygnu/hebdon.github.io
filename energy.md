@@ -18,6 +18,8 @@ tags:
 The importance of being earnest.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Materials and shininess.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 Also nonethingness.<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 
+See also the important concept of.<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
+
 <a id="org0a3fadc"></a>
 
 <a id="orga7a2b7b"></a>
@@ -40,3 +42,5 @@ Computation* (New York, NY: Oxford University Press, 2017).
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> Larry Lohmann and Nick Hildyard, *Energy, Work, and Finance*
 (Dorset, UK: The Corner House, 2014).
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> See Hornborg, *Global Magic*, 19&#x2013;23.
