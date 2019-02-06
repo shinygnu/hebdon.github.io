@@ -5,16 +5,26 @@ layout: post
 categories: 
 tags: 
 ---
-cite: (Hornborg 2016) citep: (Hornborg 2016)
 
-(See Hornborg 2016, 35) says that it's all a bunch of crap.
+# Table of Contents
+
+1.  [Energy Anthropology / Anthropology of Energy](#energy-anthropology-anthropology-of-energy)
 
 
-### Harvey, K. n.d. Free Energy Foraging in an Affordance Landscape.
+<a id="energy-anthropology-anthropology-of-energy"></a>
 
--   [Link](https://www.researchgate.net/profile/Kole_Harvey/publication/324949705_Free_energy_foraging_in_an_affordance_landscape/links/5aec6010458515f599827dc2/Free-energy-foraging-in-an-affordance-landscape.pdf)
+# Energy Anthropology / Anthropology of Energy
+
+1.  He has gone on to talk about technology (Hornborg 2016).
+2.  Another important current is Elizabeth Shove (Shove and Walker 2014).
 
 <a id="orgb43fd6a"></a>
 
 <a id="orgafd8685"></a>
-Hornborg, Alf. 2016. *Global Magic*. Palgrave Macmillan.
+Hornborg, Alf  
+2016Global Magic. Palgrave Macmillan.
+
+<a id="orge4002ba"></a>
+Shove, Elizabeth, and Gordon Walker  
+2014What Is Energy for? Social Practice and Energy Demand. Theory,
+Culture, & Society 31(5): 41&#x2013;58.
