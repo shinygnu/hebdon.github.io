@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2019-04-23 Tue 09:40 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Funding</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Chris Hebdon" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Funding</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org342ee4c">1. Professorships</a>
+<ul>
+<li><a href="#orged0dfcc">1.1. University of Chicago</a>
+<ul>
+<li><a href="#org16ced2e">1.1.1. (2 May 2019) Non-TT Assistant Teaching Professor</a></li>
+</ul>
+</li>
+<li><a href="#org9ff54bd">1.2. University of Edinburgh</a>
+<ul>
+<li><a href="#org92a9320">1.2.1. (3 May 2019) Lecturer in Anthropology of Development https://www.jobs.ac.uk/job/BRJ737/lecturer-in-the-anthropology-of-development</a></li>
+<li><a href="#org0583d5f">1.2.2. (3 May 2019) Lecturer in Social Anthropology</a></li>
+</ul>
+</li>
+<li><a href="#orgbfc0818">1.3. University of Sussex</a>
+<ul>
+<li><a href="#org0ce3286">1.3.1. (13 May 2019) Lecturship in Social Anthropology</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org214b87a">2. Funding (Current)</a>
+<ul>
+<li><a href="#org9e55295">2.1. Yale Fellowships</a>
+<ul>
+<li><a href="#org8b64cfd">2.1.1. (29 April 2019) MacMillan Center Language Fellowships</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgd00a586">3. Funding (Past)</a>
+<ul>
+<li><a href="#org26dee22">3.1. Dissertation Writing Fellowships</a>
+<ul>
+<li><a href="#org3784865">3.1.1. 1 March 2019</a></li>
+<li><a href="#org441f108">3.1.2. 15 February 2019</a></li>
+<li><a href="#orgb1d6681">3.1.3. 1 February 2019</a></li>
+<li><a href="#org90cd1a6">3.1.4. 31 January 2019</a></li>
+<li><a href="#org6dea318">3.1.5. Wenner Grenn</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org342ee4c" class="outline-2">
+<h2 id="org342ee4c"><span class="section-number-2">1</span> Professorships</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orged0dfcc" class="outline-3">
+<h3 id="orged0dfcc"><span class="section-number-3">1.1</span> University of Chicago</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org16ced2e" class="outline-4">
+<h4 id="org16ced2e"><span class="section-number-4">1.1.1</span> (2 May 2019) Non-TT Assistant Teaching Professor</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<p>
+Date Posted	April 12, 2019
+Type	Non tenure track
+Salary	Competitive
+Employment Type	Full-time
+Description
+</p>
+
+<p>
+The Master of Arts Program in the Social Sciences (MAPSS) at the University of Chicago invites applications for a position as Earl S. Johnson Instructor in Anthropology. This is a full-time instructorship, renewable annually to a maximum term of three years, beginning September 1, 2019. The successful applicant will teach four graduate courses in anthropology, including one or two methods courses; advise MA students; evaluate MA theses; hire and manage teaching assistants; participate in program admissions, staff hiring, and student recruitment; help train our doctoral student preceptors; and contribute to the intellectual life and administrative needs of the program. The position provides advanced training and professional mentorship in program leadership, research, and teaching, and offers exceptional preparation for tenure-track employment.
+</p>
+
+<p>
+Qualifications
+</p>
+
+<p>
+Prior teaching experience is required. Familiarity with the University of Chicago's faculty and academic resources is desirable. Applicants must have completed all requirements for the PhD in Anthropology, including the dissertation defense, by August 31, 2019, and have the PhD in-hand by January 1, 2020.
+</p>
+
+<p>
+Application Instructions
+</p>
+
+<p>
+Applicants must apply on the University of Chicago's Academic Recruitment job board website at apply.interfolio.com/61479 . Applicants must submit the following materials: 1) a cover letter, 2) a curriculum vitae, 3) an article-length writing sample, 4) three letters of reference, 5) the syllabi from past teaching, and 6) course evaluations or comparable evidence of past teaching performance. The review of applications will begin on May 6 and will continue until the position is filled or the search is closed.
+</p>
+
+
+
+<p>
+Equal Employment Opportunity Statement
+</p>
+
+<p>
+The University of Chicago is an Affirmative Action/Equal Opportunity/Disabled/Veterans Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.
+</p>
+
+<p>
+Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-1032 or email equalopportunity@uchicago.edu with their request.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org9ff54bd" class="outline-3">
+<h3 id="org9ff54bd"><span class="section-number-3">1.2</span> University of Edinburgh</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-org92a9320" class="outline-4">
+<h4 id="org92a9320"><span class="section-number-4">1.2.1</span> (3 May 2019) Lecturer in Anthropology of Development <a href="https://www.jobs.ac.uk/job/BRJ737/lecturer-in-the-anthropology-of-development">https://www.jobs.ac.uk/job/BRJ737/lecturer-in-the-anthropology-of-development</a></h4>
+</div>
+<div id="outline-container-org0583d5f" class="outline-4">
+<h4 id="org0583d5f"><span class="section-number-4">1.2.2</span> (3 May 2019) Lecturer in Social Anthropology</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<p>
+<a href="https://www.jobs.ac.uk/job/BRJ749/lecturer-in-social-anthropology">https://www.jobs.ac.uk/job/BRJ749/lecturer-in-social-anthropology</a>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgbfc0818" class="outline-3">
+<h3 id="orgbfc0818"><span class="section-number-3">1.3</span> University of Sussex</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-org0ce3286" class="outline-4">
+<h4 id="org0ce3286"><span class="section-number-4">1.3.1</span> (13 May 2019) Lecturship in Social Anthropology</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+<a href="https://www.jobs.ac.uk/job/BRN884/lecturer-in-social-anthropology">https://www.jobs.ac.uk/job/BRN884/lecturer-in-social-anthropology</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org214b87a" class="outline-2">
+<h2 id="org214b87a"><span class="section-number-2">2</span> Funding (Current)</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org9e55295" class="outline-3">
+<h3 id="org9e55295"><span class="section-number-3">2.1</span> Yale Fellowships</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-org8b64cfd" class="outline-4">
+<h4 id="org8b64cfd"><span class="section-number-4">2.1.1</span> (29 April 2019) MacMillan Center Language Fellowships</h4>
+<div class="outline-text-4" id="text-2-1-1">
+</div>
+<ol class="org-ol">
+<li><a id="org29157c1"></a>up to $18,000 for non-Yale University tuition and fees and up to $15,000 for living expenses<br />
+<div class="outline-text-5" id="text-2-1-1-1">
+<p>
+The Whitney and Betty MacMillan Center for International and Area Studies at Yale invites applications for Academic Year 2019 – 2020 fellowships for language study. All foreign languages are eligible for funding.  However, applicants interested in studying Chinese, Japanese, or Korean should first apply to the Richard U. Light Fellowship Program; and, applicants interested in studying an eligible European language should first apply to the Council on European Studies’ Foreign Language and Area Studies Fellowships (FLAS) competition. The MacMillan Center will consider applications for Chinese, Japanese, or Korean or eligible European languages only from applicants who have been waitlisted for funding in the Light Program or the FLAS competitions. Applicants may not apply for or hold Light or FLAS fellowships concurrently with a MacMillan Center language fellowship.
+</p>
+
+<p>
+Academic year language fellowships are available to any undergraduate, graduate and professional school student whose academic program requires the study of a foreign language or whose research plans require the study of a foreign language. In the application, students are expected to demonstrate a bona fide academic need to study the language they have proposed and show a clear relationship to the applicant’s overall course of study. Only current students who are fully enrolled may apply.
+</p>
+
+<p>
+Priority will be given to students applying for intermediate and advanced level language study, but beginning level study will be considered from Ph.D. students who have a research need for the language.
+</p>
+
+<p>
+Language courses for reading knowledge are not eligible for funding.
+</p>
+
+<p>
+The academic year language fellowship provides up to $18,000 toward non-Yale University tuition and fees and up to $15,000 for living expenses.  Yale students may apply the award to recognized intensive programs at other universities within or outside the U.S. Rigorous online and distance education programs are also eligible for fellowship support.
+</p>
+
+<p>
+Application Information:
+It is the applicant’s responsibility to see that the complete application, including letters of recommendation and transcripts, reaches us by the deadline; incomplete or late applications will not be considered.
+</p>
+
+<p>
+Application materials:
+</p>
+
+<ol class="org-ol">
+<li>Personal Statement explaining the relationship between language and area study to your degree program and career plans (not to exceed two pages)</li>
+
+<li>CV</li>
+
+<li>one Letter of Reference from a faculty member;</li>
+
+<li>an unofficial copy of your most recent Transcript, including courses in which you are currently enrolled;</li>
+
+<li>Language Evaluation form - the verification of current level of language to be studied;</li>
+
+<li>Supplemental Materials: a copy of a brochure or other material in English from the proposed program’s  institution that details the cost (tuition), total number of contact hours, dates and nature of your chosen program of study. Please include the program’s URL. A copy of your program enrollment application clearly indicating dates of attendance and total cost broken down between tuition\fees and other\room &amp; board expenses.</li>
+</ol>
+
+<p>
+Contact Information:
+For questions about this application, please contact Julia Muravnik at julia.muravnik@yale.edu
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd00a586" class="outline-2">
+<h2 id="orgd00a586"><span class="section-number-2">3</span> Funding (Past)</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org26dee22" class="outline-3">
+<h3 id="org26dee22"><span class="section-number-3">3.1</span> Dissertation Writing Fellowships</h3>
+<div class="outline-text-3" id="text-3-1">
+</div>
+<div id="outline-container-org3784865" class="outline-4">
+<h4 id="org3784865"><span class="section-number-4">3.1.1</span> 1 March 2019</h4>
+<div class="outline-text-4" id="text-3-1-1">
+</div>
+<ol class="org-ol">
+<li><a id="orgbc34d83"></a>American Anthropological Association Minority Disertation Fellowship<br /></li>
+<li><a id="org2680cbe"></a><a href="https://www.americananthro.org/ParticipateAndAdvocate/Content.aspx?ItemNumber=1621">https://www.americananthro.org/ParticipateAndAdvocate/Content.aspx?ItemNumber=1621</a><br />
+<div class="outline-text-5" id="text-3-1-1-2">
+<ul class="org-ul">
+<li>Dissertation fellowship intended to increase the number of PhDs in anthropology among persons from historically underrepresented populations (including but not limited to U.S. citizens who are African American, Alaskan Natives, Native American, Asian American, Latino/a, Chicano/a, and Pacific Islander. Stipend is $10,000 for the final year of write-up of the dissertation, which can be in any area of the discipline. Applicants must be members of the AAA. Applications are available on the website.</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org441f108" class="outline-4">
+<h4 id="org441f108"><span class="section-number-4">3.1.2</span> 15 February 2019</h4>
+<div class="outline-text-4" id="text-3-1-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgcafe2af"></a>Ruth Landes Fellowships<br />
+<div class="outline-text-5" id="text-3-1-2-1">
+<p>
+Grants for Individuals
+</p>
+
+<p>
+Eligibility
+</p>
+
+<p>
+Grants are available to scholars and other professionally qualified individuals of
+recognized merit for work toward a doctoral dissertation, for postdoctoral work, or for
+independent scholarship. Eligibility is limited to United States citizens and permanent
+legal residents. Grants are awarded on an objective and non-discriminatory basis and
+without regard to race, gender, religion, national origin, sexual orientation, age or
+ethnicity. 
+</p>
+
+<p>
+Awards
+</p>
+
+<p>
+Awards range from $10,000 to $60,000 per year, and may be used for research, including
+field studies, and related expenses, including travel (where appropriate) and living costs
+over the period covered by the Landes Grant. Senior scholars may request stipends based
+on their previous year’s salary and professional standing. Applications for multiyear grants
+will be considered. 
+</p>
+
+<p>
+Publication subventions are available for work resulting from a Landes Grant. The
+manuscript must be accepted for publication in order to qualify for consideration. Funds
+may also be available for the publication or other dissemination of non-print materials,
+including film, video, and other forms of media generated by research underwritten by a
+Landes Grant.
+</p>
+
+<p>
+Application Procedures
+</p>
+
+<p>
+Applicants must submit hard copies of the following documents in English, or
+accompanied by an English translation: 
+</p>
+
+<p>
+Cover Page – containing the applicant’s name, contact information, academic and/or
+professional affiliation(s), country or countries of citizenship and legal residency, title
+and location(s) of the proposed research or study, project dates, requested grant
+amount, a project abstract limited to three hundred words, and the names of and
+contact information for three professional references.
+</p>
+
+<p>
+Project Proposal – consisting of the following:
+</p>
+
+<p>
+Project Narrative – a statement outlining the objectives and methods of the
+proposed research or study, including a description of how the project relates to
+subjects that were of interest to Dr. Landes during her professional and
+academic career. The project narrative is limited to 2,500 words, excluding the
+bibliography, which is limited to two pages.
+</p>
+
+<p>
+Project Expenses – a statement of anticipated costs for the project, including an
+itemized budget for research expenses, if any. For stipend requests, a statement
+from the applicant's employer is required certifying that his/her salary or stipend
+and associated expenses will not be paid by the institution during the tenure of
+the grant. The applicant must also list the source of other funds dedicated to the
+project, if any, and include a list of any other pending applications for support.
+</p>
+
+<p>
+Credentials – a curriculum vitae (CV) and, if the applicant is a doctoral candidate, an
+up-to-date official graduate school transcript.
+</p>
+
+<p>
+References – three letters of professional reference from individuals able to
+objectively evaluate the applicant as well as the proposed research or study. Each
+letter should be forwarded through the applicant in a sealed envelope with the
+referee’s signature across the sealed flap, and should otherwise conform to the
+Guidelines for Referees. Applicants should refer to the Individual Grant Application
+Procedures and Checklist for details.
+</p>
+
+<p>
+Writing Sample – an essay, limited to twenty pages (6,000 words), or article on a
+subject related to the proposed research or study.
+</p>
+
+<p>
+Selection Criteria
+</p>
+
+<p>
+Applications will be evaluated according to the following criteria: the merit and
+significance of the applicant’s proposal; the applicant’s qualifications; the relevance of the
+project to subjects that were of interest to Dr. Landes during her career; and the degree to
+which grant funds are likely to contribute to the success of the proposed project. 
+</p>
+
+<p>
+Special consideration will be given to applications for work with the papers and
+unpublished manuscripts of Ruth Schlossberg Landes at the National Anthropological
+Archives, Smithsonian Institution, or among related materials in other public and private
+collections; and for projects in and among the geographical and cultural communities
+studied by Dr. Landes.
+</p>
+
+<p>
+Schedule
+</p>
+
+<p>
+There is no application deadline. No grants need be awarded if the applicant pool is not
+of sufficient quality. 
+</p>
+
+<p>
+All applicants will be notified within three months from the date of receipt of the
+completed application. Applications should be mailed to:
+</p>
+
+<p>
+Ruth Landes Memorial Research Fund
+The Reed Foundation
+500 Fifth Avenue, Suite 4810
+New York, New York 10110
+</p>
+
+<p>
+Please note: Electronically submitted applications will not be accepted.
+</p>
+
+<p>
+Downloads
+</p>
+
+<p>
+Individual Grant Application Procedures and Checklist [pdf] [doc] [rtf]
+Guidelines for Referees [pdf] [doc] [rtf]
+To view PDF files, download the free Adobe Acrobat Reader. 
+</p>
+
+<p>
+Grants for Institutions
+</p>
+
+<p>
+Please direct all inquiries to David Latham at +1 212-768-4996, or
+lathamdc@thereedfoundation.org.
+</p>
+</div>
+</li>
+
+
+
+<li><a id="org80f15f2"></a><a href="http://thereedfoundation.org/landes/grants.html">http://thereedfoundation.org/landes/grants.html</a><br /></li>
+</ol>
+</div>
+<div id="outline-container-orgb1d6681" class="outline-4">
+<h4 id="orgb1d6681"><span class="section-number-4">3.1.3</span> 1 February 2019</h4>
+<div class="outline-text-4" id="text-3-1-3">
+</div>
+<ol class="org-ol">
+<li><a id="org5043347"></a><i>Guggenheim Foundation</i><br />
+<div class="outline-text-5" id="text-3-1-3-1">
+<ul class="org-ul">
+<li><a href="http://www.hfg.org/df/guidelines.htm">http://www.hfg.org/df/guidelines.htm</a></li>
+<li>Dissertation fellowships of $20,000 are offered to support dissertations relevant to understanding human violence and aggression in relation to social change, inter-group conflict, war, terrorism, crime and family relationships. Priority is given to areas and methodologies currently not receiving adequate attention and support from other funding sources. Fellows are expected to complete the dissertation within the award year. There is no citizenship requirement.</li>
+</ul>
+</div>
+<ol class="org-ol">
+<li><a id="org90591b0"></a>Details:<br />
+<div class="outline-text-6" id="text-3-1-3-1-1">
+<p>
+THE HARRY FRANK GUGGENHEIM FOUNDATION
+</p>
+
+<p>
+General Guidelines for Submitting Applications for Dissertation Fellowships
+</p>
+
+<p>
+In addition to the foundation's program of support for postdoctoral research, ten or
+more dissertation fellowships are awarded each year to graduate students who would
+complete the writing of a dissertation within the award year. 
+</p>
+
+<p>
+These fellowships of $20,000 each are designed to contribute to the support of the
+doctoral candidate to enable him or her to complete the thesis in a timely manner and are
+only appropriate for students approaching the final year of their Ph.D. work. 
+</p>
+
+<p>
+This fellowship is not for support of doctoral research. Applications are evaluated in
+comparison with each other and not in competition with the postdoctoral research grant
+proposals. Applicants may be citizens of any country and studying at colleges or
+universities in any country. 
+</p>
+
+<p>
+Questions that interest the foundation concern violence and aggression in relation to
+social change, intergroup conflict, war, terrorism, crime, and family relationships, among
+other subjects. Dissertations with no relevance to understanding human violence and
+aggression will not be supported. Priority will also be given to areas and methodologies
+not receiving adequate attention and support from other funding sources.
+</p>
+
+<p>
+Eligibility
+</p>
+
+<p>
+These grants are made to Ph.D. candidates who are entering the dissertation stage of
+graduate school. Usually, this means that fieldwork or other research is complete and
+writing has begun. If analysis and writing are not far enough along for an applicant to be
+confident that he will complete the dissertation within the year, he should not apply, as
+the application will not be competitive with those that comply with this timetable. In some
+disciplines, particularly experimental fields, research and writing can reasonably be
+expected to be completed within the same year, and in those cases it is appropriate to
+apply.
+</p>
+
+<p>
+Timing
+</p>
+
+<p>
+Applications for dissertation fellowships must be received by February 1, for a
+decision in June. Applications are reviewed during the spring and final decisions are
+made by the Board of Directors at its meeting in June. Applicants will be informed
+promptly by e-mail as well as letter of the Board's decision. Awards ordinarily commence
+on September 1, but other starting dates (after July 1) may be requested if the nature of
+the project makes this appropriate.
+</p>
+
+<p>
+Final Report
+</p>
+
+<p>
+Recipients of the dissertation fellowship must submit a copy of the dissertation, approved
+and accepted by their institution, within six months after the end of the award year. Any
+papers, books, articles, or other publications based on the research should also be sent to
+the foundation.
+</p>
+
+<p>
+Application
+</p>
+
+<p>
+Applications are submitted online. (However, we will still accept a mailed application using
+our previous application method, a printable PDF form, provided it arrives at the
+foundations office no later than February 1, or the following Monday if February 1
+falls on a weekend.) Applicants will first create a login account and will then be able to
+access detailed guidelines and the online application. Applicants can also view the
+guidelines only, without logging in and without starting an application, through the second
+link below.
+</p>
+
+<p>
+Go to Online Application, with Detailed Guidelines — Login Required
+<a href="http://www.hfg.org/df/">http://www.hfg.org/df/</a>
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org90cd1a6" class="outline-4">
+<h4 id="org90cd1a6"><span class="section-number-4">3.1.4</span> 31 January 2019</h4>
+<div class="outline-text-4" id="text-3-1-4">
+</div>
+<ol class="org-ol">
+<li><a id="org6a1b9eb"></a><i>de Karmen Fellow Trust</i><br />
+<div class="outline-text-5" id="text-3-1-4-1">
+</div>
+<ol class="org-ol">
+<li><a id="org1a5c198"></a>About the Josephin de Karman Fellowships<br />
+<div class="outline-text-6" id="text-3-1-4-1-1">
+<ul class="org-ul">
+<li>The Josephine de Karman Fellowship Trust was established in 1954 by the late Dr. Theodore von Karman, world renowned aeronautics expert and teacher and first director of the Guggenheim Aeronautical Laboratory at the California Institute of Technology, in memory of his sister, Josephine, who died in 1951. The purpose of this fellowship program is to recognize and assist students whose scholastic achievements reflect Professor von Karman's high standards.</li>
+<li>DeKarman fellowships are open to PhD students in any discipline,including international students, who are <b>currently enrolled</b> in a university located within the United States. <b>Only PhD candidates who will defend their dissertation in or about June 2020 are eligible for consideration for a 2019-2020 fellowship</b>. Undergraduate students, master's degree students, and postdoctoral scholars are not eligible for consideration. Special consideration will be given to applicants in the Humanities.</li>
+<li>Potential applicants should note that the <b>competition for DeKarman fellowships is extreme</b>. For the 2018-2019 cycle, the committee reviewed over 400 applications and awarded seven (7) fellowships. To be competitive, graduate applicants should have outstanding letters of recommendation, significant early scholarly contributions, and have completed several chapters of the dissertation at the time of application. Although the competition is open to graduate students from any US university, the vast majority of awards go to students at top-tier schools.</li>
+<li>By the end of December following completion of their fellowship year, awardees are required to submit a current abstract of their dissertation and a one or two-page report on their achievements as a result of having held a Josephine de Karman Fellowship. The report should include a brief breakdown of how funds were utilized. This should be in the form of a letter to the Josephine de Karman Fellowship Committee, P.O. Box 3389, San Dimas, CA 91773.</li>
+</ul>
+</div>
+</li>
+<li><a id="orge74c1fe"></a>Application Materials:<br />
+<div class="outline-text-6" id="text-3-1-4-1-2">
+<ul class="org-ul">
+<li>Unofficial transcripts of your graduate and undergraduate studies.</li>
+<li>Two letters of recommendation</li>
+<li>Filled out application form</li>
+</ul>
+</div>
+</li>
+<li><a id="org74ab3ef"></a>More info:<br />
+<div class="outline-text-6" id="text-3-1-4-1-3">
+<ul class="org-ul">
+<li>Main site: <a href="http://www.dekarman.org/">http://www.dekarman.org/</a></li>
+<li>Guidelines: <a href="http://www.dekarman.org/wp-content/uploads/2018/10/Guidelines-2019-2020.doc">http://www.dekarman.org/wp-content/uploads/2018/10/Guidelines-2019-2020.doc</a></li>
+<li>Application: <a href="http://www.dekarman.org/wp-content/uploads/2018/10/Application-2019-2020.doc">http://www.dekarman.org/wp-content/uploads/2018/10/Application-2019-2020.doc</a></li>
+</ul>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6dea318" class="outline-4">
+<h4 id="org6dea318"><span class="section-number-4">3.1.5</span> Wenner Grenn</h4>
+<div class="outline-text-4" id="text-3-1-5">
+</div>
+<ol class="org-ol">
+<li><a id="org782431f"></a>Hunt Postdoctoral Fellowship<br />
+<ol class="org-ol">
+<li><a id="orgca80323"></a><a href="http://www.wennergren.org/programs/hunt-postdoctoral-fellowships">http://www.wennergren.org/programs/hunt-postdoctoral-fellowships</a><br /></li>
+</ol>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Chris Hebdon</p>
+<p class="date">Created: 2019-04-23 Tue 09:40</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
