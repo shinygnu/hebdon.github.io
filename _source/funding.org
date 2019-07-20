@@ -6,7 +6,7 @@
 --- Jobs UK: https://jobs.ac.uk
 --- Academic Positions EU: https://academicpositions.com 
 * Professorships
-* Post-Doctoral Positions
+* Post-Doctorals
 *** American Academy of Arts and Sciences
 **** Visiting Scholars Program
      DEADLINE: <2019-10-01 Tue>
@@ -349,7 +349,7 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
 *** Wesleyan
 **** Mellon Humanities Fellows
 **** Writing in the Social Sciences Fellows
-* Term Fellowships
+* Fellowships & Grants
 ** [#A] Cambridge-Woolf Visiting Fellowships
 *** (February 2020) Sir Mick and Lady Davis Visiting Fellowships
 https://www.woolf.cam.ac.uk/about/vacancies/annual-visiting-fellowships
