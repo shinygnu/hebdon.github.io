@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2019-07-20 Sat 16:17 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Funding</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Chris Hebdon" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Funding</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org76d555a">1. Finding Aids</a></li>
+<li><a href="#org2659738">2. Professorships</a></li>
+<li><a href="#orgd3a0af0">3. Post-Doctoral Positions</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org6a7b36e">3.0.1. American Academy of Arts and Sciences</a></li>
+<li><a href="#org674ee33">3.0.2. Berkeley</a></li>
+<li><a href="#org51852ac">3.0.3. Brown</a></li>
+<li><a href="#org67ecf54">3.0.4. Cal East Bay</a></li>
+<li><a href="#org16e3086">3.0.5. Cambridge</a></li>
+<li><a href="#org3eb3dad">3.0.6. Chicago</a></li>
+<li><a href="#org7c4f866">3.0.7. Columbia</a></li>
+<li><a href="#org86d2e64">3.0.8. Cornell</a></li>
+<li><a href="#orgbe8472d">3.0.9. Dartmouth</a></li>
+<li><a href="#org746c50f">3.0.10. Harvard</a></li>
+<li><a href="#org3c24295">3.0.11. Los Angeles</a></li>
+<li><a href="#orgdec0e7e">3.0.12. McGill</a></li>
+<li><a href="#org434a487">3.0.13. Michigan</a></li>
+<li><a href="#orgaa2b7b8">3.0.14. MIT</a></li>
+<li><a href="#org1690519">3.0.15. New School and New York Historical Society</a></li>
+<li><a href="#org87c60bc">3.0.16. Oxford</a></li>
+<li><a href="#orgba59bfb">3.0.17. Penn</a></li>
+<li><a href="#orgc1c8f80">3.0.18. Princeton</a></li>
+<li><a href="#org7a3846e">3.0.19. San Diego State</a></li>
+<li><a href="#org320bb7e">3.0.20. Stanford</a></li>
+<li><a href="#org6a667e2">3.0.21. Southern California</a></li>
+<li><a href="#org9ff869d">3.0.22. Yale</a></li>
+<li><a href="#org950771c">3.0.23. Yale-NUS</a></li>
+<li><a href="#org120d40d">3.0.24. Wenner Grenn</a></li>
+<li><a href="#orga969bcc">3.0.25. Wesleyan</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orga1e5b6f">4. Term Fellowships</a>
+<ul>
+<li><a href="#orgfc61ad8">4.1. Cambridge-Woolf Visiting Fellowships</a>
+<ul>
+<li><a href="#orgfede3f9">4.1.1. (February 2020) Sir Mick and Lady Davis Visiting Fellwoships</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org76d555a" class="outline-2">
+<h2 id="org76d555a"><span class="section-number-2">1</span> Finding Aids</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+&#x2014; Am Anth. Assoc.: <a href="http://careercenter.aaanet.org/jobs">http://careercenter.aaanet.org/jobs</a>
+&#x2014; GrantFoward: <a href="https://www.grantforward.com">https://www.grantforward.com</a>
+&#x2014; Jobs UK: <a href="https://jobs.ac.uk">https://jobs.ac.uk</a>
+&#x2014; Academic Positions EU: <a href="https://academicpositions.com">https://academicpositions.com</a> 
+</p>
+</div>
+</div>
+<div id="outline-container-org2659738" class="outline-2">
+<h2 id="org2659738"><span class="section-number-2">2</span> Professorships</h2>
+</div>
+<div id="outline-container-orgd3a0af0" class="outline-2">
+<h2 id="orgd3a0af0"><span class="section-number-2">3</span> Post-Doctoral Positions</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org6a7b36e" class="outline-4">
+<h4 id="org6a7b36e"><span class="section-number-4">3.0.1</span> American Academy of Arts and Sciences</h4>
+<div class="outline-text-4" id="text-3-0-1">
+</div>
+<ol class="org-ol">
+<li><a id="orgbc170de"></a>Visiting Scholars Program<br />
+<div class="outline-text-5" id="text-3-0-1-1">
+<p>
+The Academy’s Visiting Scholars Program provides residential fellowships to postdoctoral scholars in the humanities and social sciences. The fellowship program offers a collaborative work environment and the opportunity to interact with Academy members. It also creates a national network for these scholars, assisting them in their research and professional development.
+</p>
+
+<p>
+Applications for the cycle of fellowships to begin in Fall 2020 will be accepted in October 2019.
+</p>
+
+<p>
+Housed at the headquarters of the Academy in Cambridge, Massachusetts, Visiting Scholars participate in Academy-sponsored conferences, seminars, and informal gatherings while advancing their scholarly research. The program also provides Visiting Scholars with the opportunity to develop their professional skills through involvement in the programmatic work of the Academy. This could include pursuing research for a project committee, assisting in the preparation of an issue of Dædalus, helping to organize a conference or a symposium, or other comparable activities. The Academy provides office space and computer services as well as library privileges in cooperation with the Mahindra Humanities Center at Harvard University. The program also features a mentorship program that will pair each Visiting Scholar with an Academy Fellow who is an expert in a similar field of study.
+</p>
+
+<p>
+The fellowship is a one-year post-doctoral fellowship with a mutual option to renew for a second year. To be eligible, candidates must have received the Ph.D. degree no more than four (4) years before the application deadline date, must have the degree in hand no later than August 1, 2020. Applicants may not hold a tenure-track teaching appointment nor have previously published a scholarly monograph. The annual stipend is $60,000, plus health insurance.
+</p>
+</div>
+</li>
+<li><a id="orge3a4612"></a>Mandel Presidential Fellows<br /></li>
+<li><a id="org1c33d2d"></a>Hellman Science and Technology Fellows<br />
+<div class="outline-text-5" id="text-3-0-1-3">
+<p>
+<a href="https://www.amacad.org/about/fellowships">https://www.amacad.org/about/fellowships</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org674ee33" class="outline-4">
+<h4 id="org674ee33"><span class="section-number-4">3.0.2</span> Berkeley</h4>
+<div class="outline-text-4" id="text-3-0-2">
+</div>
+<ol class="org-ol">
+<li><a id="org738b6c0"></a>President's Postdoctoral Fellows<br />
+<div class="outline-text-5" id="text-3-0-2-1">
+<p>
+<a href="https://ppfp.ucop.edu/info/how-to-apply/index.html">https://ppfp.ucop.edu/info/how-to-apply/index.html</a>
+</p>
+</div>
+</li>
+<li><a id="org1c3681c"></a>Chancellor's Postdoctoral Fellows<br /></li>
+<li><a id="orgf7a3343"></a>Ciriacy-Wantrup Postdoctoral Fellows<br />
+<div class="outline-text-5" id="text-3-0-2-3">
+<p>
+<a href="https://nature.berkeley.edu/academics/ciriacy-wantrup">https://nature.berkeley.edu/academics/ciriacy-wantrup</a>
+</p>
+
+<p>
+The S.V. Ciriacy-Wantrup Postdoctoral Fellowships in Natural Resource Economics and Political Economy will be awarded for the 2019-2020 academic year to support advanced research at the University of California, Berkeley.
+</p>
+
+<p>
+For the purposes of this fellowship, natural resources are defined broadly to include environmental resources. The fellowship encourages, but is not limited to, policy-oriented research. Applications are open to scholars from any social science discipline, and related professional fields such as law and planning, who will make significant contributions to research on natural resource economics broadly defined. Preference will be given to proposals whose orientation is broadly institutional and/or historical, and which are conceptually and theoretically innovative. Proposals whose primary emphasis is on advancing statistical or econometric theory are not eligible for consideration.
+</p>
+
+<p>
+The purpose of the fellowship is to develop new and innovative intellectual connections and ideas in natural resources economics and political economy at UC Berkeley. Accordingly, Applicants should provide specific information about the project proposed for the fellowship period, and explain why support from the fellowship and the opportunity to work at Berkeley are important for the success of that project. We welcome proposals from applicants who have not received their PhD at UC Berkeley. Proposals from UC Berkeley doctoral graduates that outline a significant change in research direction and that indicate engagement with different disciplines and faculty from those pursued during the doctoral program will be considered.
+</p>
+
+<p>
+Two types of awards are available:
+</p>
+
+<ol class="org-ol">
+<li>A one-year postdoctoral award with a salary of $58,040, renewable for a second year based on performance and funding availability. It is expected that the applicant will possess a recent doctorate or equivalent international degree by the appointment start date. Postdoctoral Fellows are appointed as UC employees and are governed by the UC Policy on Postdoctoral Scholars located here.</li>
+
+<li>A one-year award with a salary of $58,040 to support a professional leave from an academic or professional position, without option to renew. Applicatns for visiting research fellowships must have received their doctorate or equivalent international degree within the last ten years (not including any temporary leave time due to personal or family circumstances). Applicants must provide documentation of the home institution's or agency's concurrence of their leave. Visiting Research Fellows are appointed as UC employees and are governed by the UC Policy on Visiting Appointments located here.</li>
+</ol>
+
+<p>
+Both types of fellowships include $2,000 toward research-related expenses and one-way economy airfare to Berkeley for each fellow and his/her immediate family.
+</p>
+
+<p>
+Application Procedure
+Applications must be received by December 3, 2018.
+</p>
+
+<p>
+A complete application consists of the following:
+</p>
+
+<p>
+Cover Letter (Required): 1-2 page cover letter indicating your preferred Departmental affiliation and/or faculty mentor
+Curriculum Vitae (Required): Your current C.V.
+Abstract (Required): 1 paragraph abstract
+Research proposal (Required): Not to exceed 10 pages
+Publications (Required): 1 or more recent publications
+Three letters of recommendation (visible to all reviewers) from faculty members familiar with the candidate's research. Applicants should ask referees to review the UC Berkeley Statement of Confidentiality
+Applicants for the Visiting Research Fellowship must include a statement from their home institution concurring with the leave of absence for the duration of the fellowship term.
+To Apply: 
+</p>
+
+<p>
+<a href="https://aprecruit.berkeley.edu/apply/JPF01890">https://aprecruit.berkeley.edu/apply/JPF01890</a>
+</p>
+
+<p>
+Questions may be directed to Ruxin Liu by e-mail at ruxinl@berkeley.eduor by phone at (510) 643-9579.
+</p>
+
+<p>
+We would greatly appreciate your letting us know how you found out about this award. Send a brief note to ruxinl@berkeley.edu.
+</p>
+
+<p>
+Fellowship Policies
+Conditions of the Fellowship
+Appointments are expected to begin one week before the academic semester begins, for one year. Adjustments for those Fellows from institutions on a different calendar will be made. The Fellow must maintain residency at the University of California, Berkeley, during the appointment period. Postdoctoral and Visiting Research Fellows are prohibited from accepting employment and augmentation of salary during this fellowship period. Violation of this condition will result in the award being revoked and reimbursement of the full award amount. However, an appointee may, without paying tuition and fees, audit classes and participate with the consent of the instructor.
+</p>
+
+<p>
+Proof of Degree
+Thirty days before an appointment may be confirmed, the applicant must submit a copy of an official certification showing completion of the doctoral degree or equivalent international degree, or evidence that this degree has been conferred.
+</p>
+
+<p>
+Reimbursement for Travel to Berkeley
+The Fellowship will pay for one-way economy airfare to Berkeley for the Fellow and his/her immediate family.
+</p>
+
+<p>
+Research Allowance
+The amount of $2,000 will be available to the Fellow through the host department for field research, conference travel, or related expenses such as miscellaneous office expenses, photocopying, telephone, supplies, and mailing costs. The Fellow may use the research allowance at his/her discretion within University policy.
+</p>
+
+<p>
+Equipment Purchases
+Fellows may choose to use their research funds to purchase equipment such as a computer and related supplies. Fellows should be aware that the University requires that all equipment purchased with University funds remain the property of the University. The Fellow may submit a request in writing to their administrating department requesting to keep the equipment.
+</p>
+
+<p>
+Vacation and Academic Travel
+Only one trip of more than a week’s duration may be taken during the Fall and Spring semesters for research purposes. Should a Fellow request a longer research trip that cannot be accommodated during the recess periods, a formal request should be submitted to the Chair. Subsequent travel (funds permitting) may be undertaken only if an academic paper will be delivered. The Fellow is responsible for informing their sponsoring department of their whereabouts when traveling.
+</p>
+
+<p>
+Postdoctoral Research Fellows do not accrue vacation, however fellows are allowed time off each academic year in the intersession and recess periods (which constitutes about four weeks, excluding University holidays) between the beginning of Fall Term and the end of Spring Term. More information regarding leave for Potdoctoral Fellows can be located here.
+</p>
+
+<p>
+Visiting Research Fellows appointed on a fiscal year basis accrue vacation at the rate of two working days per month for full-time service. Appointees at 50 percent or more time accrue vacation at a proportionate rate; appointees at less than 50 percent time do not accrue vacation. Fellows must obtain approval from their faculty mentor prior to the use of vacation leave. More information regarding vacation leave can be located here.
+</p>
+
+<p>
+Health Insurance
+It is expected that all fellowship recipients maintain health coverage during the entire term of the Fellowship. Eligibility for health coverage through the University is dependant on the Fellowship type.
+</p>
+
+<p>
+Postdoctoral Research Fellows are covered by the UC Postdoc Scholar Benefits Plan (PSBP) and are entitled to health insurance, including dental, vision, short-term disability, life, and AD&amp;D, through the University.
+</p>
+
+<p>
+Visiting Research Fellows are covered by the UC sponsored benefits plan (Mid-level coverage) and are entitled to health insurance, including medical, life, and AD&amp;D, through the University (AD&amp;D plan requires an employee paid premium). Visiting Research Fellows are not entitled to dental, vision or short-term disability.
+</p>
+
+<p>
+Performance Requirements
+While in residence, Fellows are expected to be active participants in the academic life of their host units, through attendance at seminars relevant to their area of study and interaction with other Fellows and designated faculty mentors. Fellows are expected to give at least one seminar a year on their research in a forum to be determined in consultation with their mentor. The time and place for this seminar must be communicated to the Ciriacy-Wantrup Fellowship coordinator, Ruxin Liu, in advance with a sufficient amount of time to notify other Fellows in residence and the members of the review committee. Fellows will be expected to attend seminars given by all other Fellows. All publications written or substantially developed during the term of the fellowship must formally acknowledge the support of the Ciriacy-Wantrup Fellowship in the publication(s). A final copy of all material developed as a result of Ciriacy-Wantrup Fellowship must be submitted to the Ciriacy-Wantrup Fellowship coordinator, Ruxin Liu, for inclusion in the Ciriacy-Wantrup Fellowship library.
+</p>
+
+<p>
+Renewing the Postdoctoral Wantrup Fellowship
+The selection committee bases renewal decisions on evidence of progress toward the Fellow's research goals. Applications for renewal must include 1) a cover letter from the Fellow summarizing his/her progress toward the original proposal and research goals; 2) a letter of support from the Fellow's Mentor; 3) confirmation from the sponsoring Department Chair that space will continue to be available for the Fellow in the second year; and 4) copies of any papers or articles completed and/or published during the first year of the Fellowship. Supplementary items such as letters of recommendation, reports of papers delivered, or non-project-related research are all welcome if they serve to strengthen the case for renewal. Continued affiliation with the host department is at the discretion of the host department.
+</p>
+
+<p>
+Administration
+An additional $1,500 will be transferred to the sponsoring department to compensate their administrative efforts required for hiring, obtaining visas (when necessary), and other administrative support.
+</p>
+
+<p>
+Postdoctoral appointments are governed by U.C. Policy for postdoctoral scholars (APM 390).
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org51852ac" class="outline-4">
+<h4 id="org51852ac"><span class="section-number-4">3.0.3</span> Brown</h4>
+<div class="outline-text-4" id="text-3-0-3">
+</div>
+<ol class="org-ol">
+<li><a id="org6cfdf35"></a>Watson Institute Fellows<br /></li>
+<li><a id="org009ddb0"></a>Presidential Diversity Fellows<br /></li>
+<li><a id="orgee0ec46"></a>Critical Cultural Heritage Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-org67ecf54" class="outline-4">
+<h4 id="org67ecf54"><span class="section-number-4">3.0.4</span> Cal East Bay</h4>
+<div class="outline-text-4" id="text-3-0-4">
+</div>
+<ol class="org-ol">
+<li><a id="org939e773"></a>Assistant Professor of Environmental Anthropology<br />
+<div class="outline-text-5" id="text-3-0-4-1">
+<p>
+<a href="http://www.csueastbay.edu/oaa/jobs/csueb.html">http://www.csueastbay.edu/oaa/jobs/csueb.html</a>
+<a href="https://apply.interfolio.com/61640">https://apply.interfolio.com/61640</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org16e3086" class="outline-4">
+<h4 id="org16e3086"><span class="section-number-4">3.0.5</span> Cambridge</h4>
+<div class="outline-text-4" id="text-3-0-5">
+</div>
+<ol class="org-ol">
+<li><a id="orgb711f69"></a>Career Development Fellows<br /></li>
+<li><a id="org12a4641"></a>Post-doctoral fellowships<br />
+<div class="outline-text-5" id="text-3-0-5-2">
+<p>
+<a href="https://www.socanth.cam.ac.uk/socanth-research/post-doc-funding">https://www.socanth.cam.ac.uk/socanth-research/post-doc-funding</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org3eb3dad" class="outline-4">
+<h4 id="org3eb3dad"><span class="section-number-4">3.0.6</span> Chicago</h4>
+<div class="outline-text-4" id="text-3-0-6">
+</div>
+<ol class="org-ol">
+<li><a id="org614c87f"></a>Chicago Society of Fellows<br />
+<ol class="org-ol">
+<li><a id="org482e197"></a>(x Sept. 2019)<br />
+<div class="outline-text-6" id="text-3-0-6-1-1">
+<p>
+<a href="https://societyoffellows.uchicago.edu/https://fellows.uchicago.edu">https://societyoffellows.uchicago.edu/https://fellows.uchicago.edu</a>
+</p>
+</div>
+</li>
+</ol>
+</li>
+
+<li><a id="org2e78951"></a>Chicago Provost's Fellows<br />
+<div class="outline-text-5" id="text-3-0-6-2">
+<p>
+<a href="https://provostpostdoc.uchicago.edu/">https://provostpostdoc.uchicago.edu/</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org7c4f866" class="outline-4">
+<h4 id="org7c4f866"><span class="section-number-4">3.0.7</span> Columbia</h4>
+<div class="outline-text-4" id="text-3-0-7">
+</div>
+<ol class="org-ol">
+<li><a id="org192783e"></a>Earth Institute Fellows<br /></li>
+<li><a id="org1a652a1"></a>Faculty<br />
+<ol class="org-ol">
+<li><a id="org1c6a5c8"></a>Ben Orlove<br /></li>
+<li><a id="org7746525"></a>Bryan Boyd<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org86d2e64" class="outline-4">
+<h4 id="org86d2e64"><span class="section-number-4">3.0.8</span> Cornell</h4>
+<div class="outline-text-4" id="text-3-0-8">
+</div>
+<ol class="org-ol">
+<li><a id="org6b2db57"></a>Cornell Mellon Fellows<br />
+<div class="outline-text-5" id="text-3-0-8-1">
+<p>
+<a href="https://societyhumanities.as.cornell.edu/mellon-postdoctoral-fellowships">https://societyhumanities.as.cornell.edu/mellon-postdoctoral-fellowships</a>
+The Society for the Humanities will sponsor two postdoctoral teaching-research fellowships in the humanities, each awarded for the two-year period beginning August 2019. Each fellowship offers a stipend of $53,000/year. While in residence at Cornell, Mellon Fellows hold department affiliations and joint appointments with the Society for the Humanities, have limited teaching duties, and the opportunity for scholarly work. Mellon Postdoctoral Fellowships are available in two areas of specialization: Linguistics and Science &amp; Technology Studies.
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgbe8472d" class="outline-4">
+<h4 id="orgbe8472d"><span class="section-number-4">3.0.9</span> Dartmouth</h4>
+<div class="outline-text-4" id="text-3-0-9">
+</div>
+<ol class="org-ol">
+<li><a id="org5212f28"></a>Dartmouth Humanities Fellows<br />
+<div class="outline-text-5" id="text-3-0-9-1">
+<p>
+ SCHEDULED: <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-10-01 Tue&gt; </span></span> DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-10-01 Tue&gt;</span></span>
+PROGRAM DETAILS
+With the generous support of the Andrew W. Mellon Foundation, Dartmouth is pleased to accept applications for two postdoctoral fellowships in the humanities and humanistic social sciences from Fall 2019 to the end of Spring 2021. These fellowships foster the academic careers of scholars who have recently received their Ph.D. degrees by permitting them to pursue their research while gaining mentored experience as teachers and members of the departments and/or programs in which they are housed. The program also benefits Dartmouth by complementing existing curricula with underrepresented fields.
+</p>
+
+<p>
+We are currently not accepting applications for Anthropology; Asian and Middle Eastern Studies; Theater; Asian Societies, Cultures, and Languages; History; and Russian. Applicants must focus on materials customarily associated with research in the humanities or employ methods common in humanistic research.
+</p>
+
+<p>
+TERMS OF APPOINTMENT
+Fellows are expected to teach two courses in their home department(s) or program(s) in each year of their residency. At least one of the four courses should contribute something new to the Dartmouth curriculum, and at least one should be an introductory lecture course. Fellows will not, however, be asked to teach basic language courses.
+</p>
+
+<p>
+The appointed fellows will enjoy full use of such college resources as the library, computing center, the Leslie Center for the Humanities, Rockefeller Center for Public Policy and the Social Sciences, the Dickey Center for International Understanding, the Hood Museum of Art, and the Hopkins Center.
+</p>
+
+<p>
+The 2018-2020 fellows received an annual stipend of $57,528 plus benefits, an annual research allowance of $2,000, and a first-year-only computer allowance of $2,500. The terms for the 2019-2021 fellows will be similar.
+</p>
+
+<p>
+Applicants for the 2019-2021 fellowships must have completed a Ph.D. no earlier than January 1, 2017. Candidates who do not yet hold a Ph.D. but expect to by June 30, 2019 should supply a letter from their home institution corroborating such a schedule.
+</p>
+</div>
+</li>
+<li><a id="orgc8439ab"></a>McKennen Anthropology Postdoctoral Fellows<br />
+<div class="outline-text-5" id="text-3-0-9-2">
+<p>
+[] <a href="https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship">https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org746c50f" class="outline-4">
+<h4 id="org746c50f"><span class="section-number-4">3.0.10</span> Harvard</h4>
+<div class="outline-text-4" id="text-3-0-10">
+</div>
+<ol class="org-ol">
+<li><a id="org5ebb3eb"></a>Harvard Society of Fellows<br />
+<ol class="org-ol">
+<li><a id="org5c01866"></a>(11 August 2019, by nomination only)<br />
+<div class="outline-text-6" id="text-3-0-10-1-1">
+<p>
+<a href="https://sites.fas.harvard.edu/~socfell/nominations.html">https://sites.fas.harvard.edu/~socfell/nominations.html</a>
+</p>
+
+<p>
+HARVARD UNIVERSITY
+About the Society	
+</p>
+
+<p>
+NOMINATION PROCEDURE
+    Candidates are nominated for Junior Fellowships, generally by those under whom they have studied. Applications are not accepted from the candidates themselves. A letter of nomination should include an assessment of the candidate's work and promise, i.e. a full letter of recommendation, and also provide complete contact information for the candidate, including current residential address and email address, and the names, mailing addresses, and email addresses of three additional people who agree to write letters of recommendation by the date requested when they are contacted by the Society. Men and women interested in any field of study are eligible for these fellowships. Nominees should be of the highest calibre of intellectual achievement, i.e. comparable to the most successful candidates for junior faculty positions at leading universities.
+</p>
+
+<p>
+Upon receipt of the mailed nomination, the Society will request letters of recommendation from the referees listed, and ask the candidate to submit samples of written work (dissertation chapters, articles, papers) along with a one or two-page proposal describing the studies he or she would like to pursue while a Junior Fellow: 
+</p>
+
+<p>
+• The Society will request that the three additional letters of recommendation be submitted
+   electronically - not by email, but through a link which we will provide in our correspondence with 
+   the referees. After receipt of the nomination, the referees will be contacted by our office both by regular 
+   mail and email and asked to submit their letters within three weeks of the date of our email. 
+   (This is why full and accurate email addresses are necessary to process the nomination.) Instructions 
+   for uploading letters will be provided to each referee, along with a password to enter the secure site.
+</p>
+
+<p>
+• Our communication with the candidate will request that written materials be submitted both electronically 
+   through a link to our submission portal and by mail or express mail within three weeks from the date of 
+   our initial email contact. Full instructions for uploading the C.V., list of publications, research proposal, 
+   and three samples of work will be provided, along with a password to enter the secure site.
+</p>
+
+<p>
+• The candidate is requested to provide official transcripts of both undergraduate and graduate records. 
+   (Ideally, transcripts should be forwarded directly to the Society from the universities involved; however, 
+   candidates who have sealed transcripts may submit them with their mailed materials.) 
+</p>
+
+<p>
+On the basis of the materials submitted, the Senior Fellows select a certain number of candidates for interview. It is from this number that the final selection is made. The Society pays the traveling expenses of those candidates interviewed.
+</p>
+
+<p>
+Please note: If still pursuing the Ph.D., candidates should be at the dissertation stage of their theses and be prepared to finish their degrees within a year of becoming fellows. If already a recipient of the degree, they should not be much more than a year past the Ph.D. at the time the fellowship commences. Most Junior Fellows receive the Ph.D. just prior to the start of the fellowship.
+</p>
+
+
+<p>
+     The deadline for receiving nominations for Junior Fellowships that begin July 1, 2018, is Friday, August 11, 2017. No nomination will be accepted with a postmark past the deadline. Nominations will not be accepted by email.
+All letters should be sent to:
+</p>
+
+<p>
+The Society of Fellows
+Harvard University
+78 Mount Auburn Street
+Cambridge, Massachusetts 02138
+</p>
+
+
+<p>
+Contacts  |  ©2004 President and Fellows of Harvard College
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org462c827"></a>Harvard Academy Scholars<br />
+<ol class="org-ol">
+<li><a id="org51daf0c"></a>(1 Oct. 2019)<br />
+<div class="outline-text-6" id="text-3-0-10-2-1">
+<p>
+<a href="https://academy.wcfia.harvard.edu/programs/academy_scholar">https://academy.wcfia.harvard.edu/programs/academy_scholar</a>
+Academy Scholars Program
+This program is open to all recent PhD recipients and doctoral candidates in the social sciences or law.
+</p>
+
+<p>
+The Academy Scholars Program identifies and supports outstanding scholars at the start of their careers whose work combines disciplinary excellence in the social sciences or law with a command of the language and history or culture of countries or regions outside of the United States or Canada. Their scholarship may elucidate domestic, comparative, or transnational issues, past or present.
+</p>
+
+<p>
+The Academy Scholars are a select community of individuals with resourcefulness, initiative, curiosity, and originality, whose work in cultures or regions outside of the US or Canada shows promise as a foundation for exceptional careers in major universities or international institutions.
+</p>
+
+<p>
+Academy Scholars are appointed for a two-year, in-residence, postdoctoral fellowship at The Harvard Academy for International and Area Studies, Harvard University, Cambridge, MA. They receive substantial financial and research assistance to undertake sustained projects of research and/or acquire accessory training in their chosen fields and areas. The Senior Scholars, a distinguished group of senior Harvard University faculty members, act as mentors to the Academy Scholars to help them achieve their intellectual potential.
+</p>
+
+<p>
+Eligibility
+The competition for these awards is open only to recent PhD (or comparable professional school degree) recipients and doctoral candidates in the social sciences or law.
+</p>
+
+<p>
+Those still pursuing a PhD should have completed their routine training and be well along in the writing of their theses before applying to become Academy Scholars. If you have completed a PhD program, the PhD completion date must be within three years of the October 1 application deadline. For applicants applying for the October 1, 2018 deadline, you must have completed your PhD or equivalent after September 30, 2015.
+</p>
+
+<p>
+The Selection Committee considers all applicants in one applicant pool.
+</p>
+
+<p>
+Terms
+Each year, four to five Academy Scholars are named for two-year appointments. Academy Scholars are expected to reside in the Cambridge/Boston area for the duration of their appointments unless traveling for pre-approved research purposes.
+</p>
+
+<p>
+Postdoctoral Academy Scholars will receive an annual stipend of $67,000. If selected before earning the PhD, the Scholars will receive an annual stipend of $31,000 until awarded the PhD. This stipend is supplemented by funding for conference and research travel, research assistants, and health insurance coverage. Some teaching is permitted but not required.
+</p>
+
+<p>
+Applications are welcome from qualified persons without regard to nationality, gender, or race
+</p>
+
+<p>
+How to Apply
+All application materials need to be submitted by the deadline of October 1. We do not accept late applications.
+</p>
+
+<p>
+The completed application will include:
+</p>
+
+<p>
+Cover letter which succinctly states the applicant's academic field, country or region of specialization, and proposed research topic
+Curriculum vitae (CV) or resumé; including list of publications
+Research proposal (2500 word maximum); including intellectual objectives and planned methodological and disciplinary work
+A copy of your PhD program transcript
+Three letters of recommendation (uploaded through the online application)
+Letters should be addressed to the "Selection Committee."
+Letters of recommendation need to be uploaded by the deadline of October 1.
+</p>
+
+<p>
+All parts of the application, including the three letters of recommendation, are submitted online as pdf documents. The online application is accessed through the homepage of The Harvard Academy’s website. To access the application, click on the APPLY ONLINE button.
+</p>
+
+<p>
+Questions should be emailed to:
+applicationinquiries@wcfia.harvard.edu.
+</p>
+
+<p>
+You may include footnotes, endnotes, and/or bibliographies in your proposed research statement, but they are not required. If you do give references, they will not count towards the 2500-word maximum for the research statement.
+</p>
+
+<p>
+We require no copies of published papers or abstracts as part of our application process. Do not include them in your application.
+</p>
+
+<p>
+Regarding transcripts from foreign universities: our reviewers read many applications from those at foreign universities and request as much transcript-like official documentation as the Registrar at your university can provide, for all graduate work—both for the Master's and PhD programs in which you have been or are currently enrolled. Your institution most likely gets these requests often and can provide the required paperwork to you upon request.
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org5c8d7f9"></a>Environmental Fellows<br /></li>
+<li><a id="org91aa3be"></a>Global American Studies Postdoctoral Fellows<br />
+<div class="outline-text-5" id="text-3-0-10-4">
+</div>
+</li>
+<li><a id="org1e6f38e"></a>Inequality in America Fellows<br />
+<div class="outline-text-5" id="text-3-0-10-5">
+</div>
+</li>
+<li><a id="org4570cbd"></a>Mahindra Humanities Fellows<br /></li>
+<li><a id="orgc72b719"></a>Schroeder Curatorial Fellows<br /></li>
+<li><a id="org9393509"></a>Santo Domingo Fellows DRCLAS<br />
+<div class="outline-text-5" id="text-3-0-10-8">
+<p>
+<a href="https://drclas.harvard.edu/pages/visiting-scholarfellow-opportunities-type">https://drclas.harvard.edu/pages/visiting-scholarfellow-opportunities-type</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org3c24295" class="outline-4">
+<h4 id="org3c24295"><span class="section-number-4">3.0.11</span> Los Angeles</h4>
+<div class="outline-text-4" id="text-3-0-11">
+</div>
+<ol class="org-ol">
+<li><a id="org5c20ada"></a>Faculty<br />
+<ol class="org-ol">
+<li><a id="org84e9078"></a>David A. Scott (Archaeology)<br />
+<div class="outline-text-6" id="text-3-0-11-1-1">
+<p>
+<a href="https://www.ioa.ucla.edu/people/david-scott">https://www.ioa.ucla.edu/people/david-scott</a>
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgdec0e7e" class="outline-4">
+<h4 id="orgdec0e7e"><span class="section-number-4">3.0.12</span> McGill</h4>
+<div class="outline-text-4" id="text-3-0-12">
+</div>
+<ol class="org-ol">
+<li><a id="orgf55a946"></a>Mellon Postdoctoral Fellows**** Flegg Postdoctoral Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-org434a487" class="outline-4">
+<h4 id="org434a487"><span class="section-number-4">3.0.13</span> Michigan</h4>
+<div class="outline-text-4" id="text-3-0-13">
+</div>
+<ol class="org-ol">
+<li><a id="orgdabf343"></a>Michigan Society of Fellows<br />
+<div class="outline-text-5" id="text-3-0-13-1">
+<p>
+<a href="http://societyoffellows.umich.edu/the-fellowship/">http://societyoffellows.umich.edu/the-fellowship/</a>
+Each Fellow has a three-year appointment as Assistant Professor in an affiliated department of the University and a three-year appointment as a Postdoctoral Scholar in the Society of Fellows. This appointment is not tenure-track. The current annual stipend is <span class="underline">$60,000.</span> Fellows are eligible for participation in the University health, dental, and life insurance programs. Each fellow is expected to teach the equivalent of one academic year, i.e., a total of two terms during the period of the fellowship. Any subsequent appointment of a Fellow to a position at the University of Michigan would be subject to the rules governing new appointments.
+</p>
+
+<p>
+Fellows are expected to be in residence in Ann Arbor for the academic years of appointment (September to May) and to participate in the activities of the Society of Fellows. Off-campus research leave during academic terms will be permitted only in rare cases, only for brief periods of time, and only upon written application to the Chair of the Society well in advance of the proposed leave. Any leave granted will count as part of the fellowship tenure.
+</p>
+
+<p>
+Publications
+Fellows are asked to cite their affiliation with the Society of Fellows in any publications that result from work done during their tenure and to provide the Society with copies of such published work.
+</p>
+
+<p>
+Report on Scholarship
+At the end of each fellowship year, Fellows are asked to submit a written report on their activities and accomplishments during the year.
+</p>
+
+<p>
+Activities
+The Society of Fellows is an interdisciplinary intellectual community in which the postdoctoral Fellows are joined by Senior Fellows to share their work in progress. Fellows are expected to participate in monthly colloquia, attend dinners of the Society, and to engage in conversation with other members about their intellectual interests. They participate in the annual evaluation of new applicants for the Fellowship, serve as evaluators for the Distinguished Dissertations Awards sponsored by the Rackham Graduate School, and act as mentors for graduate students completing their dissertations.
+</p>
+
+<p>
+Research Assistance
+The departments of appointment have primary responsibility for providing office and laboratory or studio space for Fellows, as well as access to other research needs or equipment. The Society will help to assure the cooperation of departments in providing the requisite setting for the scholarly and creative work of each Fellow. Each Fellow may draw on the Society’s funds for research or travel on approval from the Chair and with proper receipts, up to a total of $1500 per year. Fellows are encouraged to seek support from external agencies if it appears that their scholarly and creative work will be enhanced by such grants.
+</p>
+
+<p>
+Fellowship Application
+The 2018 application will be available August 1.  Questions may be submitted to society.of.fellows@umich.edu.
+</p>
+</div>
+</li>
+<li><a id="orge57dfbf"></a>Critical Translation Studies Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgaa2b7b8" class="outline-4">
+<h4 id="orgaa2b7b8"><span class="section-number-4">3.0.14</span> MIT</h4>
+<div class="outline-text-4" id="text-3-0-14">
+</div>
+<ol class="org-ol">
+<li><a id="org316580d"></a>SHASS Digital Humanities Fellows<br />
+<div class="outline-text-5" id="text-3-0-14-1">
+<p>
+<a href="https://shass.mit.edu/academics/graduate/digital-humanities-postdoc">https://shass.mit.edu/academics/graduate/digital-humanities-postdoc</a>
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org1690519" class="outline-4">
+<h4 id="org1690519"><span class="section-number-4">3.0.15</span> New School and New York Historical Society</h4>
+<div class="outline-text-4" id="text-3-0-15">
+</div>
+<ol class="org-ol">
+<li><a id="org1d8e9ed"></a>Postdoctoral Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-org87c60bc" class="outline-4">
+<h4 id="org87c60bc"><span class="section-number-4">3.0.16</span> Oxford</h4>
+<div class="outline-text-4" id="text-3-0-16">
+</div>
+<ol class="org-ol">
+<li><a id="orgf36d540"></a>American Institute Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgba59bfb" class="outline-4">
+<h4 id="orgba59bfb"><span class="section-number-4">3.0.17</span> Penn</h4>
+<div class="outline-text-4" id="text-3-0-17">
+</div>
+<ol class="org-ol">
+<li><a id="orgd49c5b4"></a>Mellon Postdoctoral Fellows<br /></li>
+<li><a id="org977e3e6"></a>Environmental Humanities Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgc1c8f80" class="outline-4">
+<h4 id="orgc1c8f80"><span class="section-number-4">3.0.18</span> Princeton</h4>
+<div class="outline-text-4" id="text-3-0-18">
+</div>
+<ol class="org-ol">
+<li><a id="org37540e5"></a>Princeton Society of Fellows<br />
+<div class="outline-text-5" id="text-3-0-18-1">
+<p>
+<a href="https://sf.princeton.edu/application">https://sf.princeton.edu/application</a>
+The Princeton Society of Fellows in the Liberal Arts, an interdisciplinary group of scholars in the humanities, social sciences, and selected natural sciences, invites applications for the 2019-22 fellowship competition. Four fellowships will be awarded: Two Open Fellowships in any discipline represented in the Society One Fellowship in Humanistic Studies One Fellowship in LGBT Studies Applicants may apply for more than one fellowship pertinent to their research and teaching. Please see the Society’s website princeton.edu/sf/ for fellowship details, eligibility, disciplines and application. Appointed in the Humanities Council and academic departments, postdoctoral fellows pursue their research, attend weekly seminars and teach half-time as lecturers for a term of three years. In each of the first two years, fellows teach one course each semester; in their third year, only one course. The salary for 2019-2020 will be approximately <span class="underline">$88,800.</span> Fellows must reside in or near Princeton during the academic year. Applicants holding the Ph.D. at the time of application must have received the degree after January 1, 2017. Applicants not yet holding the Ph.D. must have completed a substantial portion of the dissertation - approximately half - at the time of application. Successful candidates must fulfill all requirements for the Ph.D., including filing of the dissertation, by June 15, 2019. Candidates for/recipients of doctoral degrees in Education, Jurisprudence and from Princeton University are not eligible. Applicants may apply only once to the Princeton Society of Fellows. Selection is based on exceptional scholarly achievement and evidence of unusual promise, range and quality of teaching experience, and potential contributions to an interdisciplinary community. The Society of Fellows seeks a diverse and international pool of applicants, and especially welcomes those from underrepresented backgrounds. Applicants are asked to submit an online application by August 22, 2018 (11:59 p.m. EST)
+</p>
+</div>
+</li>
+<li><a id="org8773873"></a>Judaic Studies Fellows<br /></li>
+<li><a id="orgf975f01"></a>PIIRS Postdoctoral Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-org7a3846e" class="outline-4">
+<h4 id="org7a3846e"><span class="section-number-4">3.0.19</span> San Diego State</h4>
+</div>
+<div id="outline-container-org320bb7e" class="outline-4">
+<h4 id="org320bb7e"><span class="section-number-4">3.0.20</span> Stanford</h4>
+<div class="outline-text-4" id="text-3-0-20">
+</div>
+<ol class="org-ol">
+<li><a id="orgf92c09f"></a>Mellon Fellows in the Humanities<br />
+<div class="outline-text-5" id="text-3-0-20-1">
+<p>
+<a href="http://shc.stanford.edu/fellowships/mellon">http://shc.stanford.edu/fellowships/mellon</a>
+The Mellon Fellowship of Scholars in the Humanities program is a unique opportunity for the best recent PhD recipients in the humanities to develop as scholars and teachers. Up to four fellowships will be awarded for a two-year term (with the possibility of a third). Fellows teach two courses per year in one of Stanford’s fifteen humanities departments, and are expected to participate in the intellectual life of the program, which includes regular meetings with other fellows and faculty to share work in progress and to discuss topics of mutual interest. Fellows will also be affiliated with the Stanford Humanities Center and will have the opportunity to be active in its programs and workshops.
+</p>
+
+<p>
+Program admissions focus on selected fields of scholarship in each application year (on a rotating basis). We invite applicants to apply for fellowships in fields where their work has demonstrable relevance to teaching and research in the designated Stanford department. For fellowships beginning Fall 2019, applications will be accepted from the following fields of study: Classics, Feminist, Gender and Sexuality Studies, Linguistics, and Philosophy.
+</p>
+
+<p>
+The deadline to apply for fellowships beginning Fall 2019 has passed.
+</p>
+
+<p>
+Eligibility[–]
+The Mellon Fellowship provides postdoctoral fellowships in Stanford's fifteen humanities departments. Program admissions focus on selected fields of scholarship in each application year (on a rotating basis). We invite applicants to apply for fellowships in fields where their work has demonstrable relevance to teaching and research in the designated Stanford department.
+Applicants to the Mellon Fellowship cannot hold PhDs from Stanford University.
+All candidates for the Mellon Fellowship must have received a qualified PhD within a specified time frame, as follows: 2018 Competition (for fellowships beginning Autumn 2019): PhD received between January 1, 2016 and June 30, 2019. In addition to doctoral students, those currently serving as assistant professors, lecturers, or postdoctorates in other programs are welcome to apply, provided they earned their degree within the time frame specified for the year they apply. A Doctorate in Arts (DA), honorary doctorate, or any other degree equivalent is not considered a qualifed PhD for purposes of application to this program.
+Requirements[–]
+Fellows enjoy substantial time to pursue research, teach two courses per year in an affiliated Stanford Department, and participate in active program of scholarly exchanges with other Fellows, Stanford faculty, and outside visitors.
+Each Fellow is affiliated with some Stanford Humanities department, which arranges teaching and office space. This complements the Fellowship’s cross-disciplinary community by promoting Fellows’ full engagement in the activities of their home disciplines here at Stanford.  
+Fellows are expected to be in residence at Stanford for the full academic year (mid-September through mid-June), and even in quarters when they are not teaching are expected to hold regular office hours to consult with students and to participate in the academic life of the Stanford Community.
+Fellows are also expected to be active participants in the cohort of Fellows, attending regular meetings at which presentations of current work and discussions of intellectual and professional matters of interest to the group are offered.
+Application Process[–]
+Applications should be submitted via our online application system by 11:59PM PT November 1, 2018. We discourage the submission of additional materials with your application and cannot return such materials to you. Applicants will be notified when their applications have been received, and will be notified of the fellowship competition outcome in the spring. If you accept another position or postdoctoral fellowship, please withdraw your application by emailing mellonfellows@stanford.edu.
+Application Content[+]
+Stipends[–]
+The stipend for 2018-19 is $80,000. In addition to the stipend, Fellows are eligible for a full package of employee benefits and are also provided with a research account to fund research-related expenses.
+</p>
+</div>
+</li>
+<li><a id="org4f4f105"></a>Faculty<br />
+<ol class="org-ol">
+<li><a id="orgda2dc7d"></a>Richard White (History)<br />
+<div class="outline-text-6" id="text-3-0-20-2-1">
+<p>
+<a href="https://history.stanford.edu/people/richard-white">https://history.stanford.edu/people/richard-white</a>
+</p>
+</div>
+</li>
+<li><a id="org58372de"></a>Tanya Luhrmann (Anthropology)<br /></li>
+</ol>
+</li>
+<li><a id="orgf00672a"></a>Thinking Matters Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-org6a667e2" class="outline-4">
+<h4 id="org6a667e2"><span class="section-number-4">3.0.21</span> Southern California</h4>
+<div class="outline-text-4" id="text-3-0-21">
+</div>
+<ol class="org-ol">
+<li><a id="org99ccaee"></a>Middle East Postdoctoral Fellows<br /></li>
+</ol>
+</div>
+<div id="outline-container-org9ff869d" class="outline-4">
+<h4 id="org9ff869d"><span class="section-number-4">3.0.22</span> Yale</h4>
+<div class="outline-text-4" id="text-3-0-22">
+</div>
+<ol class="org-ol">
+<li><a id="org97f5fe7"></a>Cullman Postdoctoral Fellows with the NYBG<br /></li>
+<li><a id="org6e43097"></a>Humanities Fellows<br /></li>
+<li><a id="org1969afc"></a>Middle East Fellows<br /></li>
+<li><a id="org3360504"></a>British Art Fellows<br /></li>
+<li><a id="org966c44e"></a>Faculty<br />
+<ol class="org-ol">
+<li><a id="orgc914908"></a>Michael Dove<br /></li>
+<li><a id="orga8cb384"></a>Paul Kockelman<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org950771c" class="outline-4">
+<h4 id="org950771c"><span class="section-number-4">3.0.23</span> Yale-NUS</h4>
+<div class="outline-text-4" id="text-3-0-23">
+</div>
+<ol class="org-ol">
+<li><a id="org98434bf"></a>Humanities Fellows<br />
+<div class="outline-text-5" id="text-3-0-23-1">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org120d40d" class="outline-4">
+<h4 id="org120d40d"><span class="section-number-4">3.0.24</span> Wenner Grenn</h4>
+<div class="outline-text-4" id="text-3-0-24">
+</div>
+<ol class="org-ol">
+<li><a id="org35f9b8f"></a>Hunt Postdoctoral Fellowship<br />
+<ol class="org-ol">
+<li><a id="orgfe8e5de"></a><span class="todo TODO">TODO</span> <a href="http://www.wennergren.org/programs/hunt-postdoctoral-fellowships">http://www.wennergren.org/programs/hunt-postdoctoral-fellowships</a><br /></li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-orga969bcc" class="outline-4">
+<h4 id="orga969bcc"><span class="section-number-4">3.0.25</span> Wesleyan</h4>
+<div class="outline-text-4" id="text-3-0-25">
+</div>
+<ol class="org-ol">
+<li><a id="orge8efeb2"></a>Mellon Humanities Fellows<br /></li>
+<li><a id="org135072b"></a>Writing in the Social Sciences Fellows<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orga1e5b6f" class="outline-2">
+<h2 id="orga1e5b6f"><span class="section-number-2">4</span> Term Fellowships</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgfc61ad8" class="outline-3">
+<h3 id="orgfc61ad8"><span class="section-number-3">4.1</span> Cambridge-Woolf Visiting Fellowships</h3>
+<div class="outline-text-3" id="text-4-1">
+</div>
+<div id="outline-container-orgfede3f9" class="outline-4">
+<h4 id="orgfede3f9"><span class="section-number-4">4.1.1</span> (February 2020) Sir Mick and Lady Davis Visiting Fellwoships</h4>
+<div class="outline-text-4" id="text-4-1-1">
+<p>
+<a href="https://www.woolf.cam.ac.uk/about/vacancies/annual-visiting-fellowships">https://www.woolf.cam.ac.uk/about/vacancies/annual-visiting-fellowships</a>
+The Woolf Institute, which specialises in the study of relations between Jews, Christians and Muslims from a multidisciplinary perspective, invites applications for the Sir Mick and Lady Barbara Davis Visiting Fellowship.
+</p>
+
+<p>
+The application deadline for 2020 has now passed.
+</p>
+
+<p>
+Overview
+The Fellowship is tenable for a two to three month period that overlaps one of the Cambridge terms 2020:
+</p>
+
+<p>
+Lent term: 14 January–13 March 2020
+</p>
+
+<p>
+Easter term: 21 April–12 June 2020
+</p>
+
+<p>
+The successful candidate will be expected to be involved in a project of academic research or public education in an area relevant to the Institute's work. The Fellow will be asked to present their work at a symposium on the subject of their project proposal.
+</p>
+
+<p>
+There is no stipend attached to the Fellowships, but Fellows will be entitled to free accommodation in Cambridge and one round-trip journey to Cambridge. They will also have access to the Woolf Institute and Cambridge University libraries.
+</p>
+
+<p>
+The Fellowship is available for a postdoctoral scholar of any academic rank, a policymaker or analyst in a relevant area of work and will most likely be asked to participate in some of the Institute's teaching or practice-based activities. 
+</p>
+
+<p>
+A letter of application, CV, the names of two referees who may be approached, a project proposal (1,500 words max.), and a sample of work should be sent to:
+</p>
+
+<p>
+Electors of the Visiting Fellowship, Woolf Institute, Madingley Road, Cambridge, CB3 0UB, UK or emailed to Tina Steiner at bs411@cam.ac.uk.
+</p>
+
+<p>
+Questions may be addressed informally to the Director of Research, Dr Esther-Miriam Wagner, at emw36@cam.ac.uk. 
+</p>
+
+<p>
+Deadline
+The application deadline has now passed. For further information, contact Dr Esther-Miriam Wagner at emw36@cam.ac.uk.
+</p>
+<hr />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Chris Hebdon</p>
+<p class="date">Created: 2019-07-20 Sat 16:17</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

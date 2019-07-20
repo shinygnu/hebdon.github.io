@@ -1,10 +1,12 @@
 #+TITLE: Funding
 
-* [#A] Post-Doctoral Positions
-** Key Sources
+* Finding Aids
 --- Am Anth. Assoc.: http://careercenter.aaanet.org/jobs
---- Jobs.ac.uk (British)
---- Academicpositions: 
+--- GrantFoward: https://www.grantforward.com
+--- Jobs UK: https://jobs.ac.uk
+--- Academic Positions EU: https://academicpositions.com 
+* Professorships
+* Post-Doctoral Positions
 *** American Academy of Arts and Sciences
 **** Visiting Scholars Program
      DEADLINE: <2019-10-01 Tue>
@@ -133,7 +135,7 @@ https://apply.interfolio.com/61640
   The Society for the Humanities will sponsor two postdoctoral teaching-research fellowships in the humanities, each awarded for the two-year period beginning August 2019. Each fellowship offers a stipend of $53,000/year. While in residence at Cornell, Mellon Fellows hold department affiliations and joint appointments with the Society for the Humanities, have limited teaching duties, and the opportunity for scholarly work. Mellon Postdoctoral Fellowships are available in two areas of specialization: Linguistics and Science & Technology Studies.
 *** Dartmouth
 **** Dartmouth Humanities Fellows
-SCHEDULED:   
+     SCHEDULED:   
    SCHEDULED: <2019-10-01 Tue> DEADLINE: <2019-10-01 Tue>
   PROGRAM DETAILS
   With the generous support of the Andrew W. Mellon Foundation, Dartmouth is pleased to accept applications for two postdoctoral fellowships in the humanities and humanistic social sciences from Fall 2019 to the end of Spring 2021. These fellowships foster the academic careers of scholars who have recently received their Ph.D. degrees by permitting them to pursue their research while gaining mentored experience as teachers and members of the departments and/or programs in which they are housed. The program also benefits Dartmouth by complementing existing curricula with underrepresented fields.
@@ -347,10 +349,9 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
 *** Wesleyan
 **** Mellon Humanities Fellows
 **** Writing in the Social Sciences Fellows
-* [#B] Professorships
-* [#C] Term Fellowships
+* Term Fellowships
 ** [#A] Cambridge-Woolf Visiting Fellowships
-*** (February 2020) Sir Mick and Lady Davis Visiting Fellwoships
+*** (February 2020) Sir Mick and Lady Davis Visiting Fellowships
 https://www.woolf.cam.ac.uk/about/vacancies/annual-visiting-fellowships
 The Woolf Institute, which specialises in the study of relations between Jews, Christians and Muslims from a multidisciplinary perspective, invites applications for the Sir Mick and Lady Barbara Davis Visiting Fellowship.
 
