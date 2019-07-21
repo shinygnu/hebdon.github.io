@@ -1,7 +1,8 @@
 #+TITLE: Funding
 
 
-* Post-Doctorals
+* Professorships, Postdocs, & Fellowships
+
 ** American Academy of Arts and Sciences
 *** Visiting Scholars Program
     DEADLINE: <2019-10-01 Tue>
@@ -103,8 +104,10 @@ Postdoctoral appointments are governed by U.C. Policy for postdoctoral scholars 
 *** Watson Institute Fellows
 *** Presidential Diversity Fellows
 *** Critical Cultural Heritage Fellows
+
 ** Cal East Bay
-*** Assistant Professor of Environmental Anthropology
+*** Assistant Professor of Environmental Anthropology :prof:
+    DEADLINE: <2019-09-20 Fri>
 http://www.csueastbay.edu/oaa/jobs/csueb.html
 https://apply.interfolio.com/61640
 ** Cambridge
@@ -354,13 +357,23 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
       https://history.stanford.edu/people/richard-white
 **** Tanya Luhrmann (Anthropology)
 *** Thinking Matters Fellows
+** Smithsonian Tropical Research Institute
+*** E.S. Tupper Three-year Postdoc
+    DEADLINE: <2019-08-15 Thu>
+    https://www.grantforward.com/grant?grant_id=339623&offset=2
+    https://stri.si.edu/sites/default/files/3year_tupper_postdocad.pdf
+    https://solaa.si.edu/
 ** Southern California
 *** Middle East Postdoctoral Fellows
 ** Yale
-*** Cullman Postdoctoral Fellows with the NYBG
+*** Postdocs List:
+https://postdocs.yale.edu/yale-postdoctoral-positions
+*** Cullman-NYBG Postdoc :post:
+    DEADLINE: <2020-12-20 Sun>
 *** Humanities Fellows
 *** Middle East Fellows
 *** British Art Fellows
+*** [#C] Study of Slavery, Resistance, and Abolition 
 *** Faculty
 **** Michael Dove
 **** Paul Kockelman
@@ -368,8 +381,9 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
 *** Humanities Fellows 
     DEADLINE: <2019-11-30 Sat>
 ** Wenner Grenn
-*** Hunt Postdoctoral Fellowship
-**** TODO http://www.wennergren.org/programs/hunt-postdoctoral-fellowships
+*** Hunt Postdoctoral Fellowship :post:
+**** http://www.wennergren.org/programs/hunt-postdoctoral-fellowships
+     DEADLINE: <2020-05-01 Fri>
 ** Wesleyan
 *** Mellon Humanities Fellows
 *** Writing in the Social Sciences Fellows
