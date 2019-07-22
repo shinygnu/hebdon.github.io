@@ -1,26 +1,26 @@
 #+TITLE: Funding
 
-
 * Professorships, Postdocs, & Fellowships
 
 ** American Academy of Arts and Sciences
-*** Visiting Scholars Program
+*** Visiting Scholars Program :post:
     DEADLINE: <2019-10-01 Tue>
-The Academy’s Visiting Scholars Program provides residential fellowships to postdoctoral scholars in the humanities and social sciences. The fellowship program offers a collaborative work environment and the opportunity to interact with Academy members. It also creates a national network for these scholars, assisting them in their research and professional development.
-
-Applications for the cycle of fellowships to begin in Fall 2020 will be accepted in October 2019.
-
-Housed at the headquarters of the Academy in Cambridge, Massachusetts, Visiting Scholars participate in Academy-sponsored conferences, seminars, and informal gatherings while advancing their scholarly research. The program also provides Visiting Scholars with the opportunity to develop their professional skills through involvement in the programmatic work of the Academy. This could include pursuing research for a project committee, assisting in the preparation of an issue of Dædalus, helping to organize a conference or a symposium, or other comparable activities. The Academy provides office space and computer services as well as library privileges in cooperation with the Mahindra Humanities Center at Harvard University. The program also features a mentorship program that will pair each Visiting Scholar with an Academy Fellow who is an expert in a similar field of study.
-
-The fellowship is a one-year post-doctoral fellowship with a mutual option to renew for a second year. To be eligible, candidates must have received the Ph.D. degree no more than four (4) years before the application deadline date, must have the degree in hand no later than August 1, 2020. Applicants may not hold a tenure-track teaching appointment nor have previously published a scholarly monograph. The annual stipend is $60,000, plus health insurance.
-*** Mandel Presidential Fellows
-*** Hellman Science and Technology Fellows
-    https://www.amacad.org/about/fellowships
+    https://www.amacad.org/visiting-scholars-program
+** Arizona
+*** Adjunct Lecturer for LATAM Drugs and Oil :job:
+    DEADLINE: <2019-08-05 Mon>
+https://www.timeshighereducation.com/unijobs/en-us/listing/163251/adjunct-lecturer-summer-session/
+** Belfast
+*** Lecturer, Education in Anthropology :prof:
+    DEADLINE: <2019-08-05 Mon>
+https://www.timeshighereducation.com/unijobs/en-us/listing/171265/lecturer-education-in-anthropology-/?LinkSource=PremiumListing
 ** Berkeley
-*** President's Postdoctoral Fellows 
+*** President's Postdoctoral Fellows                              :post:prof:
     DEADLINE: <2019-11-11 Mon>
 https://ppfp.ucop.edu/info/how-to-apply/index.html
-*** Chancellor's Postdoctoral Fellows
+*** Chancellor's Postdoctoral Fellows :post:prof:
+    DEADLINE: <2019-11-11 Mon>
+
 *** Ciriacy-Wantrup Postdoctoral Fellows
     DEADLINE: <2019-12-01 Sun>
 https://nature.berkeley.edu/academics/ciriacy-wantrup
@@ -151,165 +151,73 @@ The application deadline has now passed. For further information, contact Dr Est
 *** Chicago Provost's Fellows
 https://provostpostdoc.uchicago.edu/
 ** Columbia
-*** Earth Institute Fellows
+*** Earth Institute Fellows :post:
+    DEADLINE: <2019-10-30 Wed>    https://applyeiprograms.smapply.io/prog/ei_postdoctoral_research_program/
 *** Faculty
 **** Ben Orlove
+**** Paige West
+**** Rashid Khalidi
 **** Bryan Boyd
 ** Cornell
-*** Cornell Mellon Fellows
-    DEADLINE: <2019-10-01 Tue>
- https://societyhumanities.as.cornell.edu/mellon-postdoctoral-fellowships
- The Society for the Humanities will sponsor two postdoctoral teaching-research fellowships in the humanities, each awarded for the two-year period beginning August 2019. Each fellowship offers a stipend of $53,000/year. While in residence at Cornell, Mellon Fellows hold department affiliations and joint appointments with the Society for the Humanities, have limited teaching duties, and the opportunity for scholarly work. Mellon Postdoctoral Fellowships are available in two areas of specialization: Linguistics and Science & Technology Studies.
+*** Cornell Mellon Fellows :post:
+    DEADLINE: <2019-10-01 Tue> https://societyhumanities.as.cornell.edu/mellon-postdoctoral-fellowships
 ** Dartmouth
-*** Dartmouth Humanities Fellows
-    SCHEDULED:   
-  SCHEDULED: <2019-10-01 Tue> DEADLINE: <2019-10-01 Tue>
- PROGRAM DETAILS
- With the generous support of the Andrew W. Mellon Foundation, Dartmouth is pleased to accept applications for two postdoctoral fellowships in the humanities and humanistic social sciences from Fall 2019 to the end of Spring 2021. These fellowships foster the academic careers of scholars who have recently received their Ph.D. degrees by permitting them to pursue their research while gaining mentored experience as teachers and members of the departments and/or programs in which they are housed. The program also benefits Dartmouth by complementing existing curricula with underrepresented fields.
-
- We are currently not accepting applications for Anthropology; Asian and Middle Eastern Studies; Theater; Asian Societies, Cultures, and Languages; History; and Russian. Applicants must focus on materials customarily associated with research in the humanities or employ methods common in humanistic research.
-
- TERMS OF APPOINTMENT
- Fellows are expected to teach two courses in their home department(s) or program(s) in each year of their residency. At least one of the four courses should contribute something new to the Dartmouth curriculum, and at least one should be an introductory lecture course. Fellows will not, however, be asked to teach basic language courses.
-
- The appointed fellows will enjoy full use of such college resources as the library, computing center, the Leslie Center for the Humanities, Rockefeller Center for Public Policy and the Social Sciences, the Dickey Center for International Understanding, the Hood Museum of Art, and the Hopkins Center.
-
- The 2018-2020 fellows received an annual stipend of $57,528 plus benefits, an annual research allowance of $2,000, and a first-year-only computer allowance of $2,500. The terms for the 2019-2021 fellows will be similar.
-
- Applicants for the 2019-2021 fellowships must have completed a Ph.D. no earlier than January 1, 2017. Candidates who do not yet hold a Ph.D. but expect to by June 30, 2019 should supply a letter from their home institution corroborating such a schedule.
-*** McKennen Anthropology Postdoctoral Fellows
-    [] https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
+*** Dartmouth Humanities Fellows :post:
+    DEADLINE: <2019-09-16 Mon>
+    https://www.dartmouth.edu/sof/fellowships/postdoc.html
+*** McKennen Anthropology Fellows :post:
+    DEADLINE: <2019-08-31 Sat>
+    Deadline unknown needs re-checking. 
+https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 ** Harvard
-*** Harvard Society of Fellows
-**** (11 August 2019, by nomination only)
- https://sites.fas.harvard.edu/~socfell/nominations.html
+*** Academic Positions Database
+https://academicpositions.harvard.edu/
+*** Bullard Fellowship in Forest Research :post:
+    DEADLINE: <2020-01-15 Wed>
+https://harvardforest.fas.harvard.edu/mid-career-fellowships#apply ; 
+https://www.grantforward.com/grant/sample_grant?grant_id=340256
 
- HARVARD UNIVERSITY
- About the Society	
- 	 	 	
- NOMINATION PROCEDURE
-     Candidates are nominated for Junior Fellowships, generally by those under whom they have studied. Applications are not accepted from the candidates themselves. A letter of nomination should include an assessment of the candidate's work and promise, i.e. a full letter of recommendation, and also provide complete contact information for the candidate, including current residential address and email address, and the names, mailing addresses, and email addresses of three additional people who agree to write letters of recommendation by the date requested when they are contacted by the Society. Men and women interested in any field of study are eligible for these fellowships. Nominees should be of the highest calibre of intellectual achievement, i.e. comparable to the most successful candidates for junior faculty positions at leading universities.
-
-     Upon receipt of the mailed nomination, the Society will request letters of recommendation from the referees listed, and ask the candidate to submit samples of written work (dissertation chapters, articles, papers) along with a one or two-page proposal describing the studies he or she would like to pursue while a Junior Fellow: 
-
-  • The Society will request that the three additional letters of recommendation be submitted
-     electronically - not by email, but through a link which we will provide in our correspondence with 
-     the referees. After receipt of the nomination, the referees will be contacted by our office both by regular 
-     mail and email and asked to submit their letters within three weeks of the date of our email. 
-     (This is why full and accurate email addresses are necessary to process the nomination.) Instructions 
-     for uploading letters will be provided to each referee, along with a password to enter the secure site.
-   
-  • Our communication with the candidate will request that written materials be submitted both electronically 
-     through a link to our submission portal and by mail or express mail within three weeks from the date of 
-     our initial email contact. Full instructions for uploading the C.V., list of publications, research proposal, 
-     and three samples of work will be provided, along with a password to enter the secure site.
-
-  • The candidate is requested to provide official transcripts of both undergraduate and graduate records. 
-     (Ideally, transcripts should be forwarded directly to the Society from the universities involved; however, 
-     candidates who have sealed transcripts may submit them with their mailed materials.) 
- 
-     On the basis of the materials submitted, the Senior Fellows select a certain number of candidates for interview. It is from this number that the final selection is made. The Society pays the traveling expenses of those candidates interviewed.
-
- Please note: If still pursuing the Ph.D., candidates should be at the dissertation stage of their theses and be prepared to finish their degrees within a year of becoming fellows. If already a recipient of the degree, they should not be much more than a year past the Ph.D. at the time the fellowship commences. Most Junior Fellows receive the Ph.D. just prior to the start of the fellowship.
-
-
-      The deadline for receiving nominations for Junior Fellowships that begin July 1, 2018, is Friday, August 11, 2017. No nomination will be accepted with a postmark past the deadline. Nominations will not be accepted by email.
- All letters should be sent to:
-
- The Society of Fellows
- Harvard University
- 78 Mount Auburn Street
- Cambridge, Massachusetts 02138
-
-
- Contacts  |  ©2004 President and Fellows of Harvard College
-*** Harvard Academy Scholars
-**** (1 Oct. 2019)
+*** Harvard Society of Fellows :post:
+     Nominations DEADLINE: <2019-08-09 Fri>
+https://socfell.fas.harvard.edu/nomination-procedure
+*** Harvard Academy Scholars :post:
+    DEADLINE: <2019-10-01 Tue>
  https://academy.wcfia.harvard.edu/programs/academy_scholar
  Academy Scholars Program
- This program is open to all recent PhD recipients and doctoral candidates in the social sciences or law.
-
- The Academy Scholars Program identifies and supports outstanding scholars at the start of their careers whose work combines disciplinary excellence in the social sciences or law with a command of the language and history or culture of countries or regions outside of the United States or Canada. Their scholarship may elucidate domestic, comparative, or transnational issues, past or present.
-
- The Academy Scholars are a select community of individuals with resourcefulness, initiative, curiosity, and originality, whose work in cultures or regions outside of the US or Canada shows promise as a foundation for exceptional careers in major universities or international institutions.
-
- Academy Scholars are appointed for a two-year, in-residence, postdoctoral fellowship at The Harvard Academy for International and Area Studies, Harvard University, Cambridge, MA. They receive substantial financial and research assistance to undertake sustained projects of research and/or acquire accessory training in their chosen fields and areas. The Senior Scholars, a distinguished group of senior Harvard University faculty members, act as mentors to the Academy Scholars to help them achieve their intellectual potential.
-
- Eligibility
- The competition for these awards is open only to recent PhD (or comparable professional school degree) recipients and doctoral candidates in the social sciences or law.
-
- Those still pursuing a PhD should have completed their routine training and be well along in the writing of their theses before applying to become Academy Scholars. If you have completed a PhD program, the PhD completion date must be within three years of the October 1 application deadline. For applicants applying for the October 1, 2018 deadline, you must have completed your PhD or equivalent after September 30, 2015.
-
- The Selection Committee considers all applicants in one applicant pool.
-
- Terms
- Each year, four to five Academy Scholars are named for two-year appointments. Academy Scholars are expected to reside in the Cambridge/Boston area for the duration of their appointments unless traveling for pre-approved research purposes.
-
- Postdoctoral Academy Scholars will receive an annual stipend of $67,000. If selected before earning the PhD, the Scholars will receive an annual stipend of $31,000 until awarded the PhD. This stipend is supplemented by funding for conference and research travel, research assistants, and health insurance coverage. Some teaching is permitted but not required.
-
- Applications are welcome from qualified persons without regard to nationality, gender, or race
-
- How to Apply
- All application materials need to be submitted by the deadline of October 1. We do not accept late applications.
-
- The completed application will include:
-
- Cover letter which succinctly states the applicant's academic field, country or region of specialization, and proposed research topic
- Curriculum vitae (CV) or resumé; including list of publications
- Research proposal (2500 word maximum); including intellectual objectives and planned methodological and disciplinary work
- A copy of your PhD program transcript
- Three letters of recommendation (uploaded through the online application)
- Letters should be addressed to the "Selection Committee."
- Letters of recommendation need to be uploaded by the deadline of October 1.
-
- All parts of the application, including the three letters of recommendation, are submitted online as pdf documents. The online application is accessed through the homepage of The Harvard Academy’s website. To access the application, click on the APPLY ONLINE button.
-
- Questions should be emailed to:
- applicationinquiries@wcfia.harvard.edu.
-
- You may include footnotes, endnotes, and/or bibliographies in your proposed research statement, but they are not required. If you do give references, they will not count towards the 2500-word maximum for the research statement.
-
- We require no copies of published papers or abstracts as part of our application process. Do not include them in your application.
-
- Regarding transcripts from foreign universities: our reviewers read many applications from those at foreign universities and request as much transcript-like official documentation as the Registrar at your university can provide, for all graduate work—both for the Master's and PhD programs in which you have been or are currently enrolled. Your institution most likely gets these requests often and can provide the required paperwork to you upon request.
-*** Environmental Fellows
-*** Global American Studies Postdoctoral Fellows
+*** Center for Environment Fellows :post:
+    DEADLINE: <2020-01-16 Thu> http://environment.harvard.edu/environmental-fellows-program
+*** Global American Studies Fellows :post:
     DEADLINE: <2019-11-17 Sun>
-*** Inequality in America Fellows
-    DEADLINE: <2019-12-01 Sun>
-*** Mahindra Humanities Fellows
-*** Schroeder Curatorial Fellows
-*** Santo Domingo Fellows DRCLAS
-    DEADLINE: <2020-01-01 Wed>
-    https://drclas.harvard.edu/pages/visiting-scholarfellow-opportunities-type
+*** Inequality in America Fellows :post:
+    DEADLINE: <2019-12-01 Sun> 
+2019 Deadline will be announced in September;    https://inequalityinamerica.fas.harvard.edu/postdoctoral-program
+*** Mahindra Humanities Fellows :post:
+    DEADLINE: <2019-11-05 Tue>
+http://mahindrahumanities.fas.harvard.edu/content/postdoctoral-fellowships
+*** Schroeder Curatorial Fellows :post:
+Search web for current advertisement
+*** Santo Domingo Fellows DRCLAS :post:
+    DEADLINE: <2020-01-01 Wed> https://drclas.harvard.edu/pages/visiting-scholarfellow-opportunities-type
+*** Professor in Islamic Studies :prof:
+    DEADLINE: <2019-08-10 Sat>
+https://www.timeshighereducation.com/unijobs/en-us/listing/171755/professor-assistant-associate-in-islamic-studies-/?LinkSource=TopJob
 ** Los Angeles
 *** Faculty
 **** David A. Scott (Archaeology)
      https://www.ioa.ucla.edu/people/david-scott
 ** McGill
-*** Mellon Postdoctoral Fellows**** Flegg Postdoctoral Fellows
+*** Mellon Postdoctoral Fellows
+*** Flegg Postdoctoral Fellows
 ** Michigan
-*** Michigan Society of Fellows
+*** Michigan Society of Fellows :post:
     DEADLINE: <2019-09-01 Sun>
  http://societyoffellows.umich.edu/the-fellowship/
- Each Fellow has a three-year appointment as Assistant Professor in an affiliated department of the University and a three-year appointment as a Postdoctoral Scholar in the Society of Fellows. This appointment is not tenure-track. The current annual stipend is _$60,000._ Fellows are eligible for participation in the University health, dental, and life insurance programs. Each fellow is expected to teach the equivalent of one academic year, i.e., a total of two terms during the period of the fellowship. Any subsequent appointment of a Fellow to a position at the University of Michigan would be subject to the rules governing new appointments.
-
- Fellows are expected to be in residence in Ann Arbor for the academic years of appointment (September to May) and to participate in the activities of the Society of Fellows. Off-campus research leave during academic terms will be permitted only in rare cases, only for brief periods of time, and only upon written application to the Chair of the Society well in advance of the proposed leave. Any leave granted will count as part of the fellowship tenure.
-
- Publications
- Fellows are asked to cite their affiliation with the Society of Fellows in any publications that result from work done during their tenure and to provide the Society with copies of such published work.
-
- Report on Scholarship
- At the end of each fellowship year, Fellows are asked to submit a written report on their activities and accomplishments during the year.
-
- Activities
- The Society of Fellows is an interdisciplinary intellectual community in which the postdoctoral Fellows are joined by Senior Fellows to share their work in progress. Fellows are expected to participate in monthly colloquia, attend dinners of the Society, and to engage in conversation with other members about their intellectual interests. They participate in the annual evaluation of new applicants for the Fellowship, serve as evaluators for the Distinguished Dissertations Awards sponsored by the Rackham Graduate School, and act as mentors for graduate students completing their dissertations.
-
- Research Assistance
- The departments of appointment have primary responsibility for providing office and laboratory or studio space for Fellows, as well as access to other research needs or equipment. The Society will help to assure the cooperation of departments in providing the requisite setting for the scholarly and creative work of each Fellow. Each Fellow may draw on the Society’s funds for research or travel on approval from the Chair and with proper receipts, up to a total of $1500 per year. Fellows are encouraged to seek support from external agencies if it appears that their scholarly and creative work will be enhanced by such grants.
-
- Fellowship Application
- The 2018 application will be available August 1.  Questions may be submitted to society.of.fellows@umich.edu.
+*** President's Postdoctoral Fellows :post:
+    DEADLINE: <2019-11-01 Fri>
+http://presidentspostdoc.umich.edu/
+*** LSA Collegiate Fellows :post:prof:
+    DEADLINE: <2019-10-01 Tue>
+https://lsa.umich.edu/ncid/fellowships-awards/lsa-collegiate-postdoctoral-fellowship.html
 *** Critical Translation Studies Fellows
 ** MIT
 *** SHASS Digital Humanities Fellows
@@ -329,6 +237,10 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
 *** Judaic Studies Fellows
 *** PIIRS Postdoctoral Fellows
 ** San Diego State
+*** Anthropologist in Science and Technology Studies :prof:
+    DEADLINE: <2019-09-15 Sun>
+https://apply.interfolio.com/64831
+
 ** Stanford
 *** Mellon Fellows in the Humanities
  http://shc.stanford.edu/fellowships/mellon
@@ -357,6 +269,9 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
       https://history.stanford.edu/people/richard-white
 **** Tanya Luhrmann (Anthropology)
 *** Thinking Matters Fellows
+*** Editorial Assistant Stanford Univ Press :job:
+    DEADLINE: <2019-07-21 Sun>
+https://www.timeshighereducation.com/unijobs/en-us/listing/169473/editorial-assistant/
 ** Smithsonian Tropical Research Institute
 *** E.S. Tupper Three-year Postdoc
     DEADLINE: <2019-08-15 Thu>
@@ -372,7 +287,6 @@ https://postdocs.yale.edu/yale-postdoctoral-positions
     DEADLINE: <2020-12-20 Sun>
 *** Humanities Fellows
 *** Middle East Fellows
-*** British Art Fellows
 *** [#C] Study of Slavery, Resistance, and Abolition 
 *** Faculty
 **** Michael Dove
@@ -382,11 +296,11 @@ https://postdocs.yale.edu/yale-postdoctoral-positions
     DEADLINE: <2019-11-30 Sat>
 ** Wenner Grenn
 *** Hunt Postdoctoral Fellowship :post:
-**** http://www.wennergren.org/programs/hunt-postdoctoral-fellowships
+http://www.wennergren.org/programs/hunt-postdoctoral-fellowships
      DEADLINE: <2020-05-01 Fri>
 ** Wesleyan
 *** Mellon Humanities Fellows
 *** Writing in the Social Sciences Fellows
 
 * Finding Aids
-American Anthropological Association: http://careercenter.aaanet.org/jobs ; GrantFoward: https://www.grantforward.com ; Jobs UK: https://jobs.ac.uk ; Academic Positions EU: https://academicpositions.com 
+American Anthropological Association: http://careercenter.aaanet.org/jobs ; GrantFoward: https://www.grantforward.com ; Jobs UK: https://jobs.ac.uk ; Academic Positions EU: https://academicpositions.com ; Times Higher Education Job Postings https://www.timeshighereducation.com/unijobs/en-us/listings/academic-posts/?Keywords=anthropology#browsing
