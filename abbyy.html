@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-07-24 Wed 23:27 -->
+<!-- 2019-07-24 Wed 23:59 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>&lrm;</title>
+<title>Optical Character Recognition in Anthropology: ABBYY and Tesseract at Yale through Librenotes</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Chris Hebdon" />
+<meta name="author" content="Chris Hebdon /Yale University/Yale University" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -229,33 +229,30 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
+<h1 class="title">Optical Character Recognition in Anthropology: ABBYY and Tesseract at Yale through Librenotes</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org33fdd2e">1. The File</a></li>
-<li><a href="#orgd72e1af">2. The New <i>Corpus inscriptionum</i></a></li>
-<li><a href="#orgf65060b">3. Optical Character Recognition for Humanists and Social Scientists</a>
+<li><a href="#orgd5922d6">1. What Use Do Humanists and Social Scientists Have For Searchable Databases?</a></li>
+<li><a href="#org2166971">2. The File</a></li>
+<li><a href="#org62cb292">3. The New <i>Corpus inscriptionum</i></a></li>
+<li><a href="#org17e63e7">4. Optical Character Recognition for Humanists and Social Scientists</a>
 <ul>
-<li><a href="#org1504387">3.1. Adobe</a></li>
-<li><a href="#org256d93e">3.2. Tesseract</a></li>
-<li><a href="#orged716e8">3.3. Google Cloud Vision OCR</a></li>
-<li><a href="#org4f97e61">3.4. RECOMMENDED: ABBYY Finereader and OCR SDK</a></li>
+<li><a href="#orgd03624d">4.1. Adobe</a></li>
+<li><a href="#org874458a">4.2. Tesseract</a></li>
+<li><a href="#org7ec7928">4.3. Google Cloud Vision OCR</a></li>
+<li><a href="#orgba46d9d">4.4. RECOMMENDED: ABBYY Finereader and OCR SDK</a></li>
 </ul>
 </li>
-<li><a href="#org10cb4bc">4. The File: An Example Project</a></li>
+<li><a href="#org54556f6">5. Librenotes</a></li>
 </ul>
 </div>
 </div>
-<p>
-#TITLE: Optical Character Recognition in Anthropology
-</p>
 
-<p>
-Chris Hebdon
-Yale University
-</p>
-
+<div id="outline-container-orgd5922d6" class="outline-2">
+<h2 id="orgd5922d6"><span class="section-number-2">1</span> What Use Do Humanists and Social Scientists Have For Searchable Databases?</h2>
+<div class="outline-text-2" id="text-1">
 <p>
 Anthropology includes researchers who conducted a great variety of studies: from archaeological digs to primatological sits, ethnographic fieldworks to ecological assays, community-wide surveys to fine-grained interviews, and much more. Among the many things that unite all anthropologists, however, is that our fieldnotes and archives consist almost entirely of typewritten and handwritten documents. What also unites us is that the discipline has no popular theory about how to organize them in a way that uses computers. 
 </p>
@@ -264,9 +261,15 @@ Anthropology includes researchers who conducted a great variety of studies: from
 Infamously, upon completing a period of research anthropologists are intimidated by their stacks of notes &#x2014; not only because of worries about whether enough information has been collected in them, (and whether what was not documented is going to be able to be recalled to memory), but because the stack of different documents is simply unwieldy. Worse, stacks of field notes can become objects of prestige pointed at on the desk when colleagues visit, and, not long after, objects of avoidance buried somewhere out of sight and mind. What is lacked, on the whole, is a coordinated disciplinary strategy for making our fieldnotes accessible to ourselves right from the start: archivable, categorizable, searchable, editable, redundant, backupable, and transformable.
 </p>
 
-<div id="outline-container-org33fdd2e" class="outline-2">
-<h2 id="org33fdd2e"><span class="section-number-2">1</span> The File</h2>
-<div class="outline-text-2" id="text-1">
+<p>
+In fact, the biggest users of OCR technology in the social sciences and humanities is the legal profession &#x2014; for whom searching through and working with many documents not only makes intellectual, but also economic, cents! 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2166971" class="outline-2">
+<h2 id="org2166971"><span class="section-number-2">2</span> The File</h2>
+<div class="outline-text-2" id="text-2">
 <p>
 Famously, social scientists have written about how they traditionally deal with such problems with The File. Probably no resource is more optimistic than Appendix 1 of C. Wright Mills's <i>Sociological Imagination</i> titled "On Intellectual Craftsmanship". "By keeping an adequate file and thus developing self-reflective habits, you learn how to keep your inner world awake," Mills advised. In the way he understood it, The File was both a site to write into and a source to write out of. It was something that you organized in such a way that it could organize you, insofar as you attended to it in certain ways.
 </p>
@@ -293,9 +296,9 @@ Another approach, less infamous but probably more widespread, is, as one profess
 </div>
 </div>
 
-<div id="outline-container-orgd72e1af" class="outline-2">
-<h2 id="orgd72e1af"><span class="section-number-2">2</span> The New <i>Corpus inscriptionum</i></h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-org62cb292" class="outline-2">
+<h2 id="org62cb292"><span class="section-number-2">3</span> The New <i>Corpus inscriptionum</i></h2>
+<div class="outline-text-2" id="text-3">
 <p>
 Malinowski once wrote about The File in other terms, as the ethnographic corpus, or corpus inscriptionum, the body of work accumulated from fieldwork. Today, the corpus has come to include an even wider variety of mediums and formats than in Malinowski's day. But now, much more than in Malinowski's time, our problem is not the availability of technology but the understanding, harnessing, and control of it, insofar as it can serve the ends of a disciplined and disciplining File of the kind Mills envisioned &#x2014; a self-reflexive and practical anthropological database. 
 </p>
@@ -314,44 +317,44 @@ What does this imply in practice?
 </div>
 </div>
 
-<div id="outline-container-orgf65060b" class="outline-2">
-<h2 id="orgf65060b"><span class="section-number-2">3</span> Optical Character Recognition for Humanists and Social Scientists</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-org17e63e7" class="outline-2">
+<h2 id="org17e63e7"><span class="section-number-2">4</span> Optical Character Recognition for Humanists and Social Scientists</h2>
+<div class="outline-text-2" id="text-4">
 <p>
 OCR (Optical Character Recognition) has been around for nearly two decades, with the most important players in the market for OCR software being ABBYY, Adobe, Google, Microsoft, and Tesseract. All of these services are increasingly adding support for ICR, or Ink Character Recognition, which recognizes handwritten materials. The combinartion of OCR and ICR is the combo necessary for a great digitization program that is useful for anthropologists with our variety of collected materials. 
 </p>
 </div>
 
-<div id="outline-container-org1504387" class="outline-3">
-<h3 id="org1504387"><span class="section-number-3">3.1</span> Adobe</h3>
-<div class="outline-text-3" id="text-3-1">
+<div id="outline-container-orgd03624d" class="outline-3">
+<h3 id="orgd03624d"><span class="section-number-3">4.1</span> Adobe</h3>
+<div class="outline-text-3" id="text-4-1">
 <p>
 Adobe's premier software is Acrobat Pro. Acrobat is great for OCRing single PDF files, and even small batches, on Mac and Windows. The downsides of Acrobat are various, however. To use Acrobat, one needs a Creative Cloud account and license. Also, Adobe has its attention drawn in a thousand different directions with all the many Cloud apps that it is currently maintaining. While Acrobat is arguably the best PDF editor for Mac and Windows, it doesn't supply a Linux version, and its OCR is not the best. Nor does it currently support the recognition of handwritten text. 
 </p>
 </div>
 </div>
 
-<div id="outline-container-org256d93e" class="outline-3">
-<h3 id="org256d93e"><span class="section-number-3">3.2</span> Tesseract</h3>
-<div class="outline-text-3" id="text-3-2">
+<div id="outline-container-org874458a" class="outline-3">
+<h3 id="org874458a"><span class="section-number-3">4.2</span> Tesseract</h3>
+<div class="outline-text-3" id="text-4-2">
 <p>
 Tesseract is a free and open source OCR program, which currently lacks stock support for ICR. It can be run on Mac, Windows, Linux or other operating systems like FreeBSD and CentOS. While potentially powerful if trained on materials during preprocessing, Tesseract is a few years behind the technology of ABBYY, Adobe, and Google. It is, however, perhaps the best OCR technology for scholars who want a personalized and long term project to work on. 
 </p>
 </div>
 </div>
 
-<div id="outline-container-orged716e8" class="outline-3">
-<h3 id="orged716e8"><span class="section-number-3">3.3</span> Google Cloud Vision OCR</h3>
-<div class="outline-text-3" id="text-3-3">
+<div id="outline-container-org7ec7928" class="outline-3">
+<h3 id="org7ec7928"><span class="section-number-3">4.3</span> Google Cloud Vision OCR</h3>
+<div class="outline-text-3" id="text-4-3">
 <p>
 Google's Cloud Vision OCR has been shown in some academic articles to be among the top of the pack, outcompeting in its accuracy well-trained Tesseract engines, Adobe Acrobat, and ABBYY Finereader. While there are big promises for Google OCR in the coming years, currently the only way to access it is to sign up as a developer on Google Cloud, a not practical option for most people.  
 </p>
 </div>
 </div>
 
-<div id="outline-container-org4f97e61" class="outline-3">
-<h3 id="org4f97e61"><span class="section-number-3">3.4</span> RECOMMENDED: ABBYY Finereader and OCR SDK</h3>
-<div class="outline-text-3" id="text-3-4">
+<div id="outline-container-orgba46d9d" class="outline-3">
+<h3 id="orgba46d9d"><span class="section-number-3">4.4</span> RECOMMENDED: ABBYY Finereader and OCR SDK</h3>
+<div class="outline-text-3" id="text-4-4">
 <p>
 The best all around OCR and ICR software is that from ABBYY, which offers a version of its services for all desktop and mobile platforms. ABBYY is the only professional service that brings all of its power to Linux, and increasingly important feature for universities as more and more programmers move away from Microsoft and Apple operating systems. While Adobe and Google have their hands in a thousand different hats, ABBYY is a company dedicated entirely towards product development of high-quality OCR and ICR, including for complex documents. In practice this means that ABBYY OCR not has consistent quality at the top or near the top of its corporate and <i>libre</i> open source competitors, but that its software is designed specifically to do the task we have been discussing &#x2014; digitizing documents with high quality optical character and handwriting recognition. 
 </p>
@@ -363,13 +366,22 @@ To boot, ABBYY has a few other features that are specially important for anthrop
 </div>
 </div>
 
-<div id="outline-container-org10cb4bc" class="outline-2">
-<h2 id="org10cb4bc"><span class="section-number-2">4</span> The File: An Example Project</h2>
+<div id="outline-container-org54556f6" class="outline-2">
+<h2 id="org54556f6"><span class="section-number-2">5</span> Librenotes</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+Librenotes at this development stage will test the best engines for processing multilingual, complex format, and including handwritten, anthropological field notes and documents. 
+</p>
+
+<p>
+It will be offering an option for Yale University Anthropology students to test the ABBYY Cloud OCR system. And it will also have another option that works by an ssh connection Yale's and Berkeley's custom Tesseract engine. 
+</p>
+</div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Chris Hebdon</p>
-<p class="date">Created: 2019-07-24 Wed 23:27</p>
+<p class="author">Author: Chris Hebdon <i>Yale University</i></p>
+<p class="date">Created: 2019-07-24 Wed 23:59</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
