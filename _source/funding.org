@@ -13,9 +13,10 @@ https://www.timeshighereducation.com/unijobs/en-us/listing/163251/adjunct-lectur
 ** Belfast
 *** Lecturer, Education in Anthropology :prof:
     DEADLINE: <2019-08-05 Mon>
+    This position is for only ten months. 
 https://www.timeshighereducation.com/unijobs/en-us/listing/171265/lecturer-education-in-anthropology-/?LinkSource=PremiumListing
 ** Bergen
-*** Associate Professor of Anthropology
+*** Associate Professor of Anthropology :prof:
     DEADLINE: <2019-09-15 Wed>    https://www.jobbnorge.no/en/available-jobs/job/172971/associate-professor-in-social-anthropology
 ** Berkeley
 *** President's Postdoctoral Fellows                              :post:prof:
@@ -24,7 +25,7 @@ https://ppfp.ucop.edu/info/how-to-apply/index.html
 *** Chancellor's Postdoctoral Fellows :post:prof:
     DEADLINE: <2019-11-11 Mon>
 
-*** Ciriacy-Wantrup Postdoctoral Fellows
+*** Ciriacy-Wantrup Postdoctoral Fellows :post:
     DEADLINE: <2019-12-01 Sun>
 https://nature.berkeley.edu/academics/ciriacy-wantrup
 https://aprecruit.berkeley.edu/apply/JPF01890
@@ -80,6 +81,9 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 *** Postdoctoral Fellowships
     SCHEDULED: <2019-11-20 Wed> DEADLINE: <2019-12-10 Tue>
     https://www.grantforward.com/grant?grant_id=337866
+** Geneva
+   DEADLINE: <2019-08-31 Sat>
+https://www.jobs.ac.uk/job/BTW834/assistant-professor-of-anthropology-sociology-of-gender-and-development
 ** Harvard
 *** Academic Positions Database
 https://academicpositions.harvard.edu/
