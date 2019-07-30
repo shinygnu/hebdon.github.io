@@ -17,7 +17,11 @@ https://www.timeshighereducation.com/unijobs/en-us/listing/163251/adjunct-lectur
 ** Belfast
 *** Lecturer, Education in Anthropology :job:
     DEADLINE: <2019-08-05 Mon>
+    This position is for only ten months. 
 https://www.timeshighereducation.com/unijobs/en-us/listing/171265/lecturer-education-in-anthropology-/?LinkSource=PremiumListing
+** Bergen
+*** Associate Professor of Anthropology :prof:
+    DEADLINE: <2019-09-15 Wed>    https://www.jobbnorge.no/en/available-jobs/job/172971/associate-professor-in-social-anthropology
 ** Berkeley
 *** President's Postdoctoral Fellows :post:prof:
     DEADLINE: <2019-11-11 Mon>
@@ -25,12 +29,16 @@ https://ppfp.ucop.edu/info/how-to-apply/index.html
 *** Chancellor's Postdoctoral Fellows :post:prof:
     DEADLINE: <2019-11-11 Mon>
 
-*** Ciriacy-Wantrup Postdoctoral Fellows
+*** Ciriacy-Wantrup Postdoctoral Fellows :post:
     DEADLINE: <2019-12-01 Sun>
 https://nature.berkeley.edu/academics/ciriacy-wantrup
 https://aprecruit.berkeley.edu/apply/JPF01890
 
 ** Brown
+*** Professor of Anthropology and International and Public Affairs
+    DEADLINE: <2019-10-15 Tue>
+http://apply.interfolio.com/65294
+http://careercenter.americananthro.org/jobs/12579316/professor-of-anthropology-and-international-and-public-affairs?utm_source=BTITwitter&utm_medium=Twitter&utm_campaign=BTI%2BTwitter%2BFeed
 *** Watson Institute Fellows
 *** Presidential Diversity Fellows
 *** Critical Cultural Heritage Fellows
@@ -70,6 +78,13 @@ https://provostpostdoc.uchicago.edu/
     DEADLINE: <2019-08-31 Sat>
     Deadline unknown needs re-checking. 
 https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
+** Ford Foundation
+*** Postdoctoral Fellowships
+    SCHEDULED: <2019-11-20 Wed> DEADLINE: <2019-12-10 Tue>
+    https://www.grantforward.com/grant?grant_id=337866
+** Geneva
+   DEADLINE: <2019-08-31 Sat>
+https://www.jobs.ac.uk/job/BTW834/assistant-professor-of-anthropology-sociology-of-gender-and-development
 ** Harvard
 *** Academic Positions Database
 https://academicpositions.harvard.edu/
@@ -101,11 +116,18 @@ Search web for current advertisement
 *** Professor in Islamic Studies :prof:
     DEADLINE: <2019-08-10 Sat>
 https://www.timeshighereducation.com/unijobs/en-us/listing/171755/professor-assistant-associate-in-islamic-studies-/?LinkSource=TopJob
+<<<<<<< HEAD
 ** Laussanne
 *** Assistant Professor in Societal Challenges of Climate Change Impacts
     SCHEDULED: <2019-07-29 Mon> DEADLINE: <2019-09-25 Wed>
 https://academicpositions.com/ad/university-of-lausanne/2019/assistant-professor-tenure-track-in-societal-challenges-of-climate-change-impacts/131626
 
+=======
+** Indiana
+*** Assistant or Associate Professor, Sustainable Food Systems
+    SCHEDULED: <2019-08-24 Sat> DEADLINE: <2019-09-01 Sun>
+http://indiana.peopleadmin.com/postings/7876
+>>>>>>> 7027ea0f16ac14b8474df771f50b7d6ddc22d5d1
 ** Los Angeles
 *** Faculty
 **** David A. Scott (Archaeology)
@@ -135,6 +157,9 @@ https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
 *** Postdoctoral Fellows
 ** Oxford
 *** American Institute Fellows
+*** Oxford Centre for Islamic Studies :post:
+    DEADLINE: <2019-08-29 Thu>
+https://www.jobs.ac.uk/job/BTX710/research-fellowships
 ** Penn
 *** Mellon Postdoctoral Fellows
 *** Environmental Humanities Fellows
@@ -184,6 +209,9 @@ https://postdocs.yale.edu/yale-postdoctoral-positions
 **** Michael Dove
 **** Paul Kockelman
 ** Yale-NUS
+*** Tenure-Track Assistant Professor in Anthropology
+    DEADLINE: <2019-10-31 Thu>
+mailspring://thread?subject=FW%3A%20Tenure-Track%20Assistant%20Professor%20Position%20in%20Anthropology%20at%20Yale-NUS%20College%20Posted&date=1564073938
 *** Humanities Fellows 
     DEADLINE: <2019-11-30 Sat>
 ** Waikato
