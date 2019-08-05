@@ -18,7 +18,7 @@ https://www.timeshighereducation.com/unijobs/en-us/listing/163251/adjunct-lectur
 *** Lecturer, Education in Anthropology :job:
     DEADLINE: <2019-08-05 Mon>
     This position is for only ten months. 
-https://www.timeshighereducation.com/unijobs/en-us/listing/171265/lecturer-education-in-anthropology-/?LinkSource=PremiumListing
+   https://www.timeshighereducation.com/unijobs/en-us/listing/171265/lecturer-education-in-anthropology-/?LinkSource=PremiumListing
 ** Bergen
 *** Associate Professor of Anthropology :prof:
     DEADLINE: <2019-09-15 Wed>    https://www.jobbnorge.no/en/available-jobs/job/172971/associate-professor-in-social-anthropology
@@ -83,7 +83,7 @@ https://provostpostdoc.uchicago.edu/
     Deadline unknown needs re-checking. 
 https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 ** Ford Foundation
-*** Postdoctoral Fellowships
+*** Postdoctoral Fellowships :post:
     SCHEDULED: <2019-11-20 Wed> DEADLINE: <2019-12-10 Tue>
     https://www.grantforward.com/grant?grant_id=337866
 ** Geneva
@@ -138,7 +138,9 @@ http://indiana.peopleadmin.com/postings/7876
 **** David A. Scott (Archaeology)
      https://www.ioa.ucla.edu/people/david-scott
 ** McGill
-*** Mellon Postdoctoral Fellows
+*** Mellon Postdoctoral Fellows :post:
+    DEADLINE: <2019-11-26 Tue>
+https://www.mcgill.ca/arts/research/fellowships/mellon
 *** Flegg Postdoctoral Fellows
 ** Michigan
 *** Michigan Society of Fellows :post:
