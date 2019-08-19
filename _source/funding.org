@@ -11,11 +11,11 @@ a "post:prof" is a post-doc with a road to tenure track
     DEADLINE: <2019-10-01 Tue>
     https://www.amacad.org/visiting-scholars-program
 ** Arizona
-*** Adjunct Lecturer for LATAM Drugs and Oil :job:
+*** DONE Adjunct Lecturer for LATAM Drugs and Oil                       :job:
     DEADLINE: <2019-08-05 Mon>
 https://www.timeshighereducation.com/unijobs/en-us/listing/163251/adjunct-lecturer-summer-session/
 ** Belfast
-*** Lecturer, Education in Anthropology :job:
+*** DONE Lecturer, Education in Anthropology                            :job:
     DEADLINE: <2019-08-05 Mon>
     This position is for only ten months. 
    https://www.timeshighereducation.com/unijobs/en-us/listing/171265/lecturer-education-in-anthropology-/?LinkSource=PremiumListing
@@ -122,12 +122,12 @@ http://mahindrahumanities.fas.harvard.edu/content/postdoctoral-fellowships
 Search web for current advertisement
 *** Santo Domingo Fellows DRCLAS :post:
     DEADLINE: <2020-01-01 Wed> https://drclas.harvard.edu/pages/visiting-scholarfellow-opportunities-type
-*** Professor in Islamic Studies :prof:
+*** DONE Professor in Islamic Studies                                  :prof:
     DEADLINE: <2019-08-10 Sat>
 https://www.timeshighereducation.com/unijobs/en-us/listing/171755/professor-assistant-associate-in-islamic-studies-/?LinkSource=TopJob
 <<<<<<< HEAD
 ** Laussanne
-*** Assistant Professor in Societal Challenges of Climate Change Impacts
+*** TODO Assistant Professor in Societal Challenges of Climate Change Impacts
     SCHEDULED: <2019-07-29 Mon> DEADLINE: <2019-09-25 Wed>
 https://academicpositions.com/ad/university-of-lausanne/2019/assistant-professor-tenure-track-in-societal-challenges-of-climate-change-impacts/131626
 
@@ -158,7 +158,7 @@ http://presidentspostdoc.umich.edu/
 https://lsa.umich.edu/ncid/fellowships-awards/lsa-collegiate-postdoctoral-fellowship.html
 *** Critical Translation Studies Fellows
 ** Michigan State
-*** Research Associate with Tenure Track :post:prof:
+*** TODO Research Associate with Tenure Track                     :post:prof:
     DEADLINE: <2019-08-28 Wed>
 http://careercenter.aaanet.org/jobs/12526529/research-associate
 ** MIT
@@ -178,7 +178,7 @@ https://www.jobs.ac.uk/job/BTX710/research-fellowships
 *** Tenure-Track Assistant Professor :prof:
     DEADLINE: <2019-10-04 Fri>
 https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=12581
-*** Princeton Society of Fellows :post:
+*** TODO Princeton Society of Fellows                                  :post:
     DEADLINE: <2019-08-22 Thu>
  https://sf.princeton.edu/application
 *** Woodrow Wilson Values and Public Policy Fellows :post:
@@ -203,11 +203,11 @@ https://apply.interfolio.com/64831
       https://history.stanford.edu/people/richard-white
 **** Tanya Luhrmann (Anthropology)
 *** Thinking Matters Fellows
-*** Editorial Assistant Stanford Univ Press :job:
+*** TODO Editorial Assistant Stanford Univ Press                        :job:
     DEADLINE: <2019-08-21 Wed>
 https://www.timeshighereducation.com/unijobs/en-us/listing/169473/editorial-assistant/
 ** Smithsonian Tropical Research Institute
-*** E.S. Tupper Three-year Postdoc
+*** DONE E.S. Tupper Three-year Postdoc
     DEADLINE: <2019-08-15 Thu>
     https://www.grantforward.com/grant?grant_id=339623&offset=2
     https://stri.si.edu/sites/default/files/3year_tupper_postdocad.pdf
@@ -232,7 +232,7 @@ mailspring://thread?subject=FW%3A%20Tenure-Track%20Assistant%20Professor%20Posit
 *** Humanities Fellows 
     DEADLINE: <2019-11-30 Sat>
 ** Waikato
-*** Lecturer in Anthropology
+*** DONE Lecturer in Anthropology
     DEADLINE: <2019-07-31 Wed>
 https://www.waikato.ac.nz/vacancies/current-vacancies
 ** Wenner Grenn
@@ -243,6 +243,10 @@ http://www.wennergren.org/programs/hunt-postdoctoral-fellowships
 *** Mellon Humanities Fellows
 *** Writing in the Social Sciences Fellows
 
+** Western Colorado
+*** TT Assist. Prof. Env. and Sust. 
+    DEADLINE: <2019-09-01 Sun>
+    app: https://www.western.edu/human-resources/faculty-and-exempt-job-announcements
 * Finding Aids
  American Anthropological Association: http://careercenter.aaanet.org/jobs ;
  GrantFoward: https://www.grantforward.com ;
