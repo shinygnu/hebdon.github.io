@@ -145,9 +145,9 @@ http://indiana.peopleadmin.com/postings/7876
 *** Mellon Postdoctoral Fellows :post:
     DEADLINE: <2019-11-26 Tue>
 https://www.mcgill.ca/arts/research/fellowships/mellon
-*** Flegg Postdoctoral Fellows
+*** Flegg Postdoctoral Fellows :post:
 ** McMaster
-*** Assistant Prof. Sociocultural
+*** Assistant Prof. Sociocultural :prof:
     DEADLINE: <2019-11-01 Fri>
 http://careercenter.aaanet.org/jobs/12698385/assistant-professor-social-cultural-anthropology
 ** Michigan
@@ -239,6 +239,10 @@ https://postdocs.yale.edu/yale-postdoctoral-positions
 mailspring://thread?subject=FW%3A%20Tenure-Track%20Assistant%20Professor%20Position%20in%20Anthropology%20at%20Yale-NUS%20College%20Posted&date=1564073938
 *** Humanities Fellows 
     DEADLINE: <2019-11-30 Sat>
+** York
+*** Anthropology of Race, Racisms, and Racialization :prof:
+    DEADLINE: <2019-10-15 Tue>
+    http://careercenter.aaanet.org/jobs/12703129/anthropology-of-race-racisms-and-racialization
 ** Waikato
 *** DONE Lecturer in Anthropology
     DEADLINE: <2019-07-31 Wed>
