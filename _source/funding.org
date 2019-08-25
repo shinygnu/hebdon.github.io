@@ -11,6 +11,9 @@ a "post:prof" is a post-doc with a road to tenure track
 *** Visiting Scholars Program :post:
     DEADLINE: <2019-10-01 Tue>
     https://www.amacad.org/visiting-scholars-program
+*** Science and Technology Policy Fellows
+    DEADLINE: <2019-11-01 Fri>
+    http://go.stpf-aaas.org/socialscience.html
 ** Bergen :prof:
 *** Associate Professor of Anthropology :prof:
     DEADLINE: <2019-09-15 Wed>    https://www.jobbnorge.no/en/available-jobs/job/172971/associate-professor-in-social-anthropology
@@ -27,9 +30,10 @@ a "post:prof" is a post-doc with a road to tenure track
 ** Bowdoin :prof:
 *** Two Tenure-Track Sociocultural Anthropology                        :prof:
     DEADLINE: <2019-09-15 Sun>
-https://careers.bowdoin.edu/postings/6278
-** Brown
-*** Professor of Anthropology and International and Public Affairs
+    https://careers.bowdoin.edu/postings/6278
+    to Dove: mailspring://thread?subject=%5BDove-docs%5D%20Fwd%3A%20two%20positions%20of%20interest&date=1566396338
+** Brown :prof:
+*** Professor of Anthropology and International and Public Affairs :prof:
     DEADLINE: <2019-10-15 Tue>
     http://apply.interfolio.com/65294
     http://careercenter.americananthro.org/jobs/12579316/professor-of-anthropology-and-international-and-public-affairs?utm_source=BTITwitter&utm_medium=Twitter&utm_campaign=BTI%2BTwitter%2BFeed
@@ -48,6 +52,9 @@ https://careers.bowdoin.edu/postings/6278
 *** Post-doctoral fellowships
     https://www.socanth.cam.ac.uk/socanth-research/post-doc-funding
 ** Chicago
+*** Collegiate Professors
+    DEADLINE: <2019-10-11 Fri>
+    http://careercenter.aaanet.org/jobs/12659220/collegiate-assistant-professor
 *** Chicago Society of Fellows
 **** (x Sept. 2019)
      https://societyoffellows.uchicago.edu/https%3A//fellows.uchicago.edu
@@ -169,6 +176,10 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
     https://shass.mit.edu/academics/graduate/digital-humanities-postdoc
 ** New School and New York Historical Society
 *** Postdoctoral Fellows
+** Notre Dame
+*** Assist. Prof in Environmental Policy
+    DEADLINE: <2019-11-01 Fri>
+    https://apply.interfolio.com/66421
 ** Oxford :post:job:
 *** Stipendiary Lectureship in Anthropology :job:
     DEADLINE: <2019-09-06 Fri>
@@ -184,10 +195,13 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 *** Tenure-Track Assistant Professor                                   :prof:
     DEADLINE: <2019-10-04 Fri>
     https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=12581
-*** TODO Princeton Society of Fellows                                  :post:
+*** Tenure-Track Assist. Prof. Environmental Humanities :prof:
+    DEADLINE: <2019-10-05 Sat>
+    https://www.princeton.edu/acad-positions/position/13221
+*** Princeton Society of Fellows                                       :post:
     DEADLINE: <2019-08-22 Thu>
     https://sf.princeton.edu/application
-*** Woodrow Wilson Values and Public Policy Fellows :post:
+*** Woodrow Wilson Values and Public Policy Fellows                    :post:
     DEADLINE: <2019-11-11 Mon>
     Two year position. Should associate with a center or program, see: http://wws.princeton.edu/centers-programs.
     Application info: https://uchv.princeton.edu/academic-programs/postdoctoral-research-associate-values-and-public-policy
@@ -197,10 +211,9 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
     DEADLINE: <2019-09-30 Mon>
     https://www2.pugetsound.jobs/psc/HRPRD/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?FOCUS=Applicant&siteid=3&
 ** San Diego State :prof:
-*** Anthropologist in Science and Technology Studies :prof:
+*** Anthropologist in Science and Technology Studies                   :prof:
     DEADLINE: <2019-09-15 Sun>
     https://apply.interfolio.com/64831
-
 ** Stanford :post:prof:
 *** Assistant Professor in Social Science of Muslim Societies :prof:
 *** Mellon Fellows in the Humanities
@@ -260,6 +273,10 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 *** TT Assist. Prof. Env. and Sust. 
     DEADLINE: <2019-09-01 Sun>
     app: https://www.western.edu/human-resources/faculty-and-exempt-job-announcements
+** Wooster College :prof:
+*** TT A. Prof. Sociology and Anthropology :prof:
+    DEADLINE: <2019-11-10 Sun>
+    http://apply.interfolio.com/65967
 * Finding Aids
   American Anthropological Association: http://careercenter.aaanet.org/jobs ;
   GrantFoward: https://www.grantforward.com ;
