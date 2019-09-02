@@ -49,7 +49,7 @@ a "post:prof" is a post-doc with a road to tenure track
 *** Davis & Woolf Visiting Fellowships
     https://www.woolf.cam.ac.uk/about/vacancies/annual-visiting-fellowships
 *** Career Development Fellows
-*** St John's College Research Fellowships
+*** St John's College Research Fellowships :post:
     DEADLINE: <2019-10-01 Tue>
     https://sjcamrf.flexigrant.com/
 *** Post-doctoral fellowships
@@ -228,6 +228,9 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 **** Richard White (History)
      https://history.stanford.edu/people/richard-white
 **** Tanya Luhrmann (Anthropology)
+*** King Center in Global Development :post:
+    DEADLINE: <2019-12-01 Sun>
+    https://chroniclevitae.com/jobs/0000501196-01?cid=VTEVPMSJOB1
 *** Thinking Matters Fellows
 
 ** Smithsonian Tropical Research Institute
