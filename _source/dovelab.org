@@ -3,7 +3,7 @@
 
 /WEEK 35: 30 August 2019/
 
-|        Time | Scholar      | Topic    |
+|        Time | Person       | Topic    |
 |-------------+--------------+----------|
 | 13:00-13:30 | Michael Dove | Planning |
 |             |              |          |
