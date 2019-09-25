@@ -25,6 +25,10 @@ a "post:prof" is a post-doc with a road to tenure track
     https://ppfp.ucop.edu/info/how-to-apply/index.html
 *** UC Chancellor's Postdoctoral Fellows                          :post:prof:
     DEADLINE: <2019-11-11 Mon>
+** Cal East Bay
+   DEADLINE: <2019-09-20 Sun>
+   https://apply.interfolio.com/61640
+** Cornell :post:prof:
 *** Cornell Assistant Prof of Science and Technology                   :prof:
     DEADLINE: <2019-11-01 Fri>
     https://academicjobsonline.org/ajo/jobs/14248
@@ -42,7 +46,7 @@ a "post:prof" is a post-doc with a road to tenure track
     Deadline unknown needs re-checking. 
 https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 ** Davidson :prof:
-*** Tenure Track Assistant Prof in Environmental Change and Society :prof:
+*** Tenure Track Assistant Prof in Environmental Change and Society :prof:letters:
     DEADLINE: <2019-10-01 Tue>
     https://www.davidson.edu/news/2019/07/30/tenure-track-position-environmental-studies
 ** El Paso :prof:
@@ -57,9 +61,6 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 *** Assistant Professor of Gender and Development :prof:
    DEADLINE: <2019-08-31 Sat>
    https://www.jobs.ac.uk/job/BTW834/assistant-professor-of-anthropology-sociology-of-gender-and-development
-** Goldsmiths :prof:
-*** Lecturer in Anthropology :prof:
-    https://www.jobs.ac.uk/job/BUG947/lecturer-in-anthropology
 ** Harvard
 *** Academic Positions Database :post:prof:
     https://academicpositions.harvard.edu/
@@ -93,11 +94,23 @@ https://anthropology.dartmouth.edu/research/mckennan-postdoc-fellowship
 *** Santo Domingo Fellows DRCLAS :post:
     DEADLINE: <2020-01-01 Wed> https://drclas.harvard.edu/pages/visiting-scholarfellow-opportunities-type
     https://academicpositions.harvard.edu/postings/9252
+    1) Potential faculty for hosting my postdoc
+       - John P. Holdren (Environmental Science and Policy)
+       - Peter L. Gallison (History of Science and Physics)
+	 - http://environment.harvard.edu/about/faculty/peter-l-galison
+       - Ted MacDonald (Anthropology; Extension School)
+	 - http://environment.harvard.edu/about/faculty/john-p-holdren-0
+       - Noel Michele Holbrook (Forestry; Biology)
+	 - http://environment.harvard.edu/about/faculty/noel-michele-holbrook
+       - Rebecca Henderson (Environmental Economics)
+       - Rosie Bsheer (History)
+	 - https://history.fas.harvard.edu/people/rosie-bsheer
+       - Karen Thornber (Comparative Literature)
+       - Michael Pollan (English)
 ** Laussanne
 *** TODO [#A] Assistant Professor in Societal Challenges of Climate Change Impacts :prof:
     SCHEDULED: <2019-07-29 Mon> DEADLINE: <2019-09-25 Wed>
     https://academicpositions.com/ad/university-of-lausanne/2019/assistant-professor-tenure-track-in-societal-challenges-of-climate-change-impacts/131626
-** Indiana
 ** Los Angeles
 *** Faculty
 **** David A. Scott (Archaeology)
@@ -160,7 +173,7 @@ Dr. Mark Moritz
 *** Mellon Postdoctoral Fellows
 *** Environmental Humanities Fellows
 ** Princeton :prof:post:
-*** Tenure-Track Assistant Professor                                   :prof:
+*** Princeton Tenure-Track Assistant Professor                         :prof:
     DEADLINE: <2019-10-04 Fri>
     https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=12581
 *** Princeton Assist. Prof. Environmental Humanities                   :prof:
