@@ -2,7 +2,7 @@
 # Table of Contents
 
 1.  [Professorships](#org4fafeb8)
-    1.  [NYU-Shanghai: TT Environmental Studies](#orgb4fdaec):prof:
+    1.  [NYU-Shanghaii: TT Environmental Studies](#org4fbf91c):prof:
     2.  [Wesleyan: TT AP of Science in Society](#org6b262c8):prof:
     3.  [Syracuse: TT AP Cultural Anthropology of Environmental Justice and Health](#org0120dc0):prof:
     4.  [Wesleyan: TT AP Science in Society](#orgcb183b1):prof:
@@ -26,9 +26,9 @@
 # Professorships
 
 
-<a id="orgb4fdaec"></a>
+<a id="org4fbf91c"></a>
 
-## NYU-Shanghai: TT Environmental Studies     :prof:
+## NYU-Shanghaii: TT Environmental Studies     :prof:
 
 NYU Shanghai invites applications for a tenure-track position in Environmental Studies. We are especially interested in candidates at the rank of assistant professor; more senior scholars will also be considered. We seek candidates who have completed a Ph.D. in geography, sociology, anthropology, political science, or a related social science field, and whose work demonstrates a capacity for excellence in interdisciplinary environmental research and high-quality classroom instruction. We are especially, but not exclusively, interested in scholars whose research adopts a global perspective on urban ecology, energy, disasters, or climate change.
 

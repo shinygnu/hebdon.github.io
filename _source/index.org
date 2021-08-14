@@ -1,8 +1,0 @@
-#+TITLE: hebdon.github.io
-#+DATE: nil
-#+SETUPFILE: 
-#+JEKYLL_LAYOUT: 
-#+JEKYLL_CATEGORIES: 
-#+JEKYLL_TAGS: 
-
-* /This page intentionally left blank/
