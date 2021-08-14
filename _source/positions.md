@@ -1,277 +1,152 @@
 
 # Table of Contents
 
-1.  [Professorships](#org8ba3414)
-    1.  [UTEP: Assistant Professor of Environmental Sociology](#org5272666):prof:
-    2.  [Alberta: TT AS Media and Technology Studies](#org6844753):prof:
-    3.  [Bard: Visiting AP in Cultural Anthropology](#orgc716d18):prof:
-    4.  [Williams: Latinx Studies](#org8b05096):prof:
-    5.  [Notre Dame: Environment, Climate Change, and Peace](#org323f309):prof:
-    6.  [Denver: 3 Assistant Professors International Studies](#org6ce3083):prof:
-    7.  [North Carolina State: TT AP in Medical Anthropology](#orgf166cb5):prof:
-    8.  [Duke: 2 TT AP in Latinx Studies](#orgf4b4af3):prof:
-    9.  [Barcelona: Sierra Húnter Professorships](#org073f1dc):prof:
-    10. [Venice: Comparative Literature](#org04744d4):prof:
-    11. [El Paso: TT AP of Environmental Sociology](#org3bd2ee5):prof:
-    12. [Oslo: TT Postdoctoral Position in Social Anthropology](#org5aa28b7):prof:
-    13. [Chicago: Postdoctoral Instructor in Human Rights](#org066e5a5):prof:post:
-    14. [Max Planck Research Groups](#org543a3be):prof:
-    15. [Simon Fraser: TT Assistant Prof in International Studies](#org40c4b27):prof:
-    16. [Irvine: TT AP Global Indigenous Studies](#org0711737):prof:
-    17. [Irvine: TT AP Global Racial Studies](#orge6bb98a):prof:
-    18. [Chicago: Instructor in Human Rights](#org6055f12):prof:
-    19. [Simon Fraser: Assistant Professor in International Studies](#org480e97b):prof:
-    20. [British Columbia: TT AP Anthropology](#org0c474db):prof:
-2.  [Postdoctoral Fellowships](#orge9ad31c)
-    1.  [Stanford: IDEAL fellows in race and ethnicity](#org7327b58):postdoc:
-    2.  [Swarthmore: sociocult. anth. Native America](#org51e262c):postdoc:
-    3.  [Stanford: King Center on Global Development](#orgec453ca):postdoc:
-    4.  [Stanford: Humanities Center Mellon Fellowship of Scholars](#orgb161f76):postdoc:
-    5.  [Penn: Wolf Humanities Center Mellon Fellowships](#org10e0e1c):postdoc:
-    6.  [Oslo: Research in the Environmental Humanities](#org20c7562):postdoc:
-    7.  [Brown: Watson Internal Institute 4 Postdocs](#org07f1eea):postdoc:
-3.  [Grants](#org4099a7b)
-    1.  [NSF: Human-Environment Program Grants](#org99921b0):grant:
+1.  [Professorships](#org4fafeb8)
+    1.  [NYU-Shanghai: TT Environmental Studies](#orgb4fdaec):prof:
+    2.  [Wesleyan: TT AP of Science in Society](#org6b262c8):prof:
+    3.  [Syracuse: TT AP Cultural Anthropology of Environmental Justice and Health](#org0120dc0):prof:
+    4.  [Wesleyan: TT AP Science in Society](#orgcb183b1):prof:
+    5.  [Penn: Provost's Diversity Fellows](#orgfd1c1ff):prof:
+    6.  [Wesleyan: TT AP of Feminism, Gender, and Sexuality](#orgdbceeb3):prof:
+    7.  [Chicago: Provist postdoctoral fellow, Race and Religion](#orge59ff08):prof:
+    8.  [Chicago: TT AP Race and Religion](#org9ceb6f5):prof:
+    9.  [Rhode Island: TT Postdoc](#org620586b):prof:
+    10. [Irvine: Lecturer in Informatics](#org8ba9337):prof:
+2.  [Postdoctoral Fellowships](#org3578334)
+    1.  [:postdoc:](#org0b3daae)
+    2.  [Cambridge: Unestablished Lecturer in Development Studies (Fixed Term)](#orge6df4bd):postdoc:
+    3.  [Penn: Mellon Postdocs, \`\`Heritage''](#org665b68c):postdoc:
+3.  [Grants](#org0faa967)
+    1.  [Eric Wolf Prize (Pol Ecol Soc)](#orgc5779c5):grant:
 
 
 
-<a id="org8ba3414"></a>
+<a id="org4fafeb8"></a>
 
 # Professorships
 
 
-<a id="org5272666"></a>
+<a id="orgb4fdaec"></a>
 
-## UTEP: Assistant Professor of Environmental Sociology     :prof:
+## NYU-Shanghai: TT Environmental Studies     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-16 Fri&gt;</span></span></p>
+NYU Shanghai invites applications for a tenure-track position in Environmental Studies. We are especially interested in candidates at the rank of assistant professor; more senior scholars will also be considered. We seek candidates who have completed a Ph.D. in geography, sociology, anthropology, political science, or a related social science field, and whose work demonstrates a capacity for excellence in interdisciplinary environmental research and high-quality classroom instruction. We are especially, but not exclusively, interested in scholars whose research adopts a global perspective on urban ecology, energy, disasters, or climate change.
 
+Terms of employment at NYU Shanghai are comparable to U.S. institutions with respect to research start-up funds and compensation, and they include housing subsidies and educational subsidies for children. Faculty may also spend time at NYU New York and other sites of the NYU Global Network, engaging in both research and teaching.    
 
-<a id="org6844753"></a>
+NYU Shanghai is the third degree-granting campus within New York University’s global network. It is the first higher education joint venture in China authorized to grant degrees that are accredited in the U.S. as well as in China. All teaching is conducted in English. A research university with liberal arts and science at its core, it resides in one of the world's great cities with a vibrant intellectual community. NYU Shanghai recruits scholars of the highest caliber who are committed to NYU's global vision of transformative teaching and innovative research and who embody the global society in which we live.
 
-## Alberta: TT AS Media and Technology Studies     :prof:
+NYU’s global network includes degree-granting campuses in New York, Shanghai, and Abu Dhabi, complemented by eleven additional academic centers across five continents. Faculty and students circulate within the network in pursuit of common research interests and cross-cultural, interdisciplinary endeavors, both local and global.
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-01 Sun&gt;</span></span></p>
+:LINK:     <https://nsf.gov/funding/pgm_summ.jsp?pims_id=505745&org=SBE&from=home>
 
-<https://www.careers.ualberta.ca/Competition/A111742599/>
 
-:LINK:     <https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.careers.ualberta.ca%2FCompetition%2FA111742599%2F&data=02%7C01%7Cmichael.dove%40yale.edu%7Cbded07f592c24cc34a6f08d862c1e374%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637367932172891885&sdata=5wgMqQH5Oi1iBwB4gjkubJRvDivIv%2B3BjPzWtT3A1uA%3D&reserved=0>
+<a id="org6b262c8"></a>
 
+## Wesleyan: TT AP of Science in Society     :prof:
 
-<a id="orgc716d18"></a>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-10-01 Fri&gt;</span></span></p>
 
-## Bard: Visiting AP in Cultural Anthropology     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-02-15 Mon&gt;</span></span></p>
+<a id="org0120dc0"></a>
 
+## Syracuse: TT AP Cultural Anthropology of Environmental Justice and Health     :prof:
 
-<a id="org8b05096"></a>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-10-01 Fri&gt;</span></span></p>
 
-## Williams: Latinx Studies     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-30 Mon&gt;</span></span></p>
+<a id="orgcb183b1"></a>
 
+## Wesleyan: TT AP Science in Society     :prof:
 
-<a id="org323f309"></a>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-10-15 Fri&gt;</span></span></p>
 
-## Notre Dame: Environment, Climate Change, and Peace     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-15 Thu&gt;</span></span></p>
+<a id="orgfd1c1ff"></a>
 
+## Penn: Provost's Diversity Fellows     :prof:
 
-<a id="org6ce3083"></a>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-11-10 Wed&gt;</span></span></p>
 
-## Denver: 3 Assistant Professors International Studies     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-15 Thu&gt;</span></span></p>
+<a id="orgdbceeb3"></a>
 
+## Wesleyan: TT AP of Feminism, Gender, and Sexuality     :prof:
 
-<a id="orgf166cb5"></a>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-10-01 Fri&gt;</span></span></p>
 
-## North Carolina State: TT AP in Medical Anthropology     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-01 Sun&gt;</span></span></p>
+<a id="orge59ff08"></a>
 
-North Carolina State University, Raleigh, NC. The Department of Sociology and Anthropology is accepting applications for an assistant professor (tenure-track) appointment as a cultural anthropologist with a focus on medical anthropology to begin Fall 2021. Qualifications: Ph.D. in Anthropology by start date (anticipated 8/16/2021); strong record or promise of research and publication, including potential for obtaining extramural funding; strong commitment to student mentorship. Teaching load is two courses per semester for research active faculty. Candidates should be prepared to teach undergraduate and graduate courses. While specific research topic is open, geographic area of specialization must lie outside Latin America and candidates should have a strong background in ethnographic research. Priority will be given to candidates who can teach qualitative research methods, anthropological theory, and whose research complements existing program strengths by speaking to topics such as health disparities, environmental and occupational risk, physical trauma, as well as transnational aspects of illness and healthcare. The Anthropology program at NCSU values a holistic approach, and candidates with the ability to reach across sub-disciplinary boundaries are especially welcome.  Formal screening of applications will begin October 10, and will continue until the position is filled.
+## Chicago: Provist postdoctoral fellow, Race and Religion     :prof:
 
-:LINK:     <https://jobs.ncsu.edu/postings/136077>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-09-15 Wed&gt;</span></span></p>
 
 
-<a id="orgf4b4af3"></a>
+<a id="org9ceb6f5"></a>
 
-## Duke: 2 TT AP in Latinx Studies     :prof:
+## Chicago: TT AP Race and Religion     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-15 Thu&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-09-15 Wed&gt;</span></span></p>
 
 
-<a id="org073f1dc"></a>
+<a id="org620586b"></a>
 
-## Barcelona: Sierra Húnter Professorships     :prof:
+## Rhode Island: TT Postdoc     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-15 Thu&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-06-30 Wed&gt;</span></span></p>
 
 
-<a id="org04744d4"></a>
+<a id="org8ba9337"></a>
 
-## Venice: Comparative Literature     :prof:
+## Irvine: Lecturer in Informatics     :prof:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-29 Thu&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-07-04 Sun&gt;</span></span></p>
 
 
-<a id="org3bd2ee5"></a>
-
-## El Paso: TT AP of Environmental Sociology     :prof:
-
-
-<a id="org5aa28b7"></a>
-
-## Oslo: TT Postdoctoral Position in Social Anthropology     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-19 Mon&gt;</span></span></p>
-
-
-<a id="org066e5a5"></a>
-
-## Chicago: Postdoctoral Instructor in Human Rights     :prof:post:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-12-14 Mon&gt;</span></span></p>
-
-
-<a id="org543a3be"></a>
-
-## Max Planck Research Groups     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-22 Thu&gt;</span></span></p>
-
-At any Max Planck Institute 
-
-:LINK:     <https://academicpositions.de/ad/max-planck-society/2020/max-planck-research-groups/148264?utm_medium=email&utm_source=transactional&utm_campaign=Job+alerts>
-
-
-<a id="org40c4b27"></a>
-
-## Simon Fraser: TT Assistant Prof in International Studies     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-29 Thu&gt;</span></span></p>
-
-
-<a id="org0711737"></a>
-
-## Irvine: TT AP Global Indigenous Studies     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-01 Sun&gt;</span></span></p>
-
-Description: Outstanding scholars involved in critical, interdisciplinary and innovative approaches to global Indigenous (capital I) issues. 
-
-:LINK:     <https://recruit.ap.uci.edu/JPF06367>
-
-
-<a id="orge6bb98a"></a>
-
-## Irvine: TT AP Global Racial Studies     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-01 Sun&gt;</span></span></p>
-
-Desc: Outstanding scholars involved in critical, interdisciplinary and innovative approaches to structura; racism as a pressing global issue. We are especially interested in candidates engaging in critical approaches to racial capitalism, Black Internationalism and Black geographies. Applicants should address explicitly how global perpsectives are deployed and or local-local dimensions feature in their research. 
-
-:LINK:     <https://recruit.ap.uci.edu/JPF05186>
-
-
-<a id="org6055f12"></a>
-
-## Chicago: Instructor in Human Rights     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-12-14 Mon&gt;</span></span></p>
-
-
-<a id="org480e97b"></a>
-
-## Simon Fraser: Assistant Professor in International Studies     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-29 Thu&gt;</span></span></p>
-
-We invite applications from historians and anthropologists with expertise in colonialism, decolonization, and postcolonial legacies. We are particularly interested in scholars with expertise in the Middle East, South or Southeast Asia, or scholars with a global/comparative scope.
-
-:LINK:     intst@sfu.ca
-
-
-<a id="org0c474db"></a>
-
-## British Columbia: TT AP Anthropology     :prof:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-23 Fri&gt;</span></span></p>
-
-specializing in theoretical and/or ethnographic approaches to the study of race and racialization and/or queer theory. Regional focus is open, though the department has identified a strong interest in scholars working in Asia, the Middle East and/or Oceania.
-
-:LINK: <https://anth.ubc.ca/people/employment-opportunities/canada-research-chair-tier-2-in-indigenous-archaeology-assistant-associate-tenure-track/>
-
-
-<a id="orge9ad31c"></a>
+<a id="org3578334"></a>
 
 # Postdoctoral Fellowships
 
 
-<a id="org7327b58"></a>
+<a id="org0b3daae"></a>
 
-## Stanford: IDEAL fellows in race and ethnicity     :postdoc:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-01 Sun&gt;</span></span></p>
-
--   Stanford University, in conjunction with its IDEAL initiative, is pleased to announce that it is seeking to appoint four to five early career fellows engaged in the study of race and ethnicity. The purpose of this program is to support the work of early-career researchers, who will lead the next generation of scholarship in race and ethnicity and whose work will point the way forward for reshaping race relations in America. Fellowships may be in any of the seven schools in the University (Business, Earth, Energy & Environmental Sciences, Education, Engineering, Humanities & Sciences, Law, Medicine). Selection criteria includes the originality and quality of the research, as well as demonstrated potential for intellectual achievement. The term of these fellowships is three years, with a start date of September 1, 2021.
-
-:LINK:     <https://academicjobsonline.org/ajo/jobs/16562>
+## :postdoc:
 
 
-<a id="org51e262c"></a>
+<a id="orge6df4bd"></a>
 
-## Swarthmore: sociocult. anth. Native America     :postdoc:
+## Cambridge: Unestablished Lecturer in Development Studies (Fixed Term)     :postdoc:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-30 Mon&gt;</span></span></p>
+The Department of Politics and International Studies is seeking to appoint three 3-year University Lecturers (i.e. Assistant Professors) in Development Studies, based in the Centre of Development Studies, from 1st September 2021. The salary range is £41,526-£52,559.
 
+The successful candidates will have a record of world-class research and publications commensurate with the international reputation of the University of Cambridge.
 
-<a id="orgec453ca"></a>
+Teaching responsibilities will include contributing to the development, delivery, supervision and assessment of courses in the interdisciplinary MPhil in Development Studies, as well as supplementary teaching at the postgraduate and undergraduate levels. Candidates should also demonstrate a willingness and ability to contribute to the self-governance and administration of the Centre and the Department.
+DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-01-01 Fri&gt;</span></span>
 
-## Stanford: King Center on Global Development     :postdoc:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-12-01 Tue&gt;</span></span></p>
-
-
-<a id="orgb161f76"></a>
-
-## Stanford: Humanities Center Mellon Fellowship of Scholars     :postdoc:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-11-01 Sun&gt;</span></span></p>
+:LINK:     <https://www.jobs.cam.ac.uk/job/27283/>
 
 
-<a id="org10e0e1c"></a>
+<a id="org665b68c"></a>
 
-## Penn: Wolf Humanities Center Mellon Fellowships     :postdoc:
+## Penn: Mellon Postdocs, \`\`Heritage''     :postdoc:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-15 Thu&gt;</span></span></p>
-
-
-<a id="org20c7562"></a>
-
-## Oslo: Research in the Environmental Humanities     :postdoc:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-15 Thu&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-10-15 Fri&gt;</span></span></p>
 
 
-<a id="org07f1eea"></a>
-
-## Brown: Watson Internal Institute 4 Postdocs     :postdoc:
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2020-10-24 Sat&gt;</span></span></p>
-
-
-<a id="org4099a7b"></a>
+<a id="org0faa967"></a>
 
 # Grants
 
 
-<a id="org99921b0"></a>
+<a id="orgc5779c5"></a>
 
-## NSF: Human-Environment Program Grants     :grant:
+## Eric Wolf Prize (Pol Ecol Soc)     :grant:
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-01-19 Tue&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2021-08-30 Mon&gt;</span></span></p>
+
+We seek papers based in substantive field research that make an innovative contribution to political ecology. Clear links to some specific set of political ecology ideas and literature is important. To be eligible for the competition, scholars must be no more than two years past the completion of their Master’s or Ph.D. degree. This includes scholars who have not yet received the Ph.D. and Master’s students. Multiple authored papers are considered as long as the first author meets the above criteria. We cannot accept papers that are already under review at a journal. 
+
+:LINK:     journalofpoliticalecology.com
 
